@@ -1,0 +1,337 @@
+[23:09:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:09:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:09:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:09:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:09:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:09:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:09:06] [main/INFO]: Reloading ResourceManager: Default
+[23:09:09] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:09:10] [Worker-Main-2/INFO]: Loaded 927 advancements
+[23:09:14] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:09:14] [Server thread/INFO]: Loading properties
+[23:09:14] [Server thread/INFO]: Default game type: SURVIVAL
+[23:09:14] [Server thread/INFO]: Generating keypair
+[23:09:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:09:15] [Server thread/INFO]: Using epoll channel type
+[23:09:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:09:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:09:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:09:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:09:15] [Server thread/INFO]: Preparing level "world"
+[23:09:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:18] [Server thread/INFO]: Preparing spawn area: 0%
+[23:09:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:09:20] [Server thread/INFO]: Preparing spawn area: 7%
+[23:09:20] [Server thread/INFO]: Preparing spawn area: 7%
+[23:09:20] [Server thread/INFO]: Preparing spawn area: 73%
+[23:09:21] [Server thread/INFO]: Time elapsed: 6002 ms
+[23:09:21] [Server thread/INFO]: Done (6.181s)! For help, type "help"
+[23:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[23:30:49] [Server thread/INFO]: Leucoptera[/99.7.181.25:55149] logged in with entity id 264 at (-258.11392457838514, 14.0, -288.34460422586244)
+[23:30:49] [Server thread/INFO]: Leucoptera joined the game
+[23:50:21] [Server thread/INFO]: [Leucoptera: Set the time to 1000]
+[23:52:33] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[23:52:33] [Server thread/INFO]: Leucoptera left the game
+[00:53:45] [Server thread/INFO]: CSGeek01[/24.96.155.20:60311] logged in with entity id 5077 at (-255.21326245734656, 15.0, -297.6243747080624)
+[00:53:45] [Server thread/INFO]: CSGeek01 joined the game
+[01:05:23] [Server thread/INFO]: Cognizar[/76.252.251.182:2727] logged in with entity id 6454 at (-46.79528446925313, 99.0, -36.30000001192094)
+[01:05:23] [Server thread/INFO]: Cognizar joined the game
+[01:05:31] [Server thread/INFO]: <CSGeek01> hey
+[01:05:34] [Server thread/INFO]: <Cognizar> yo
+[01:05:39] [Server thread/INFO]: <Cognizar> pranav around too?
+[01:05:47] [Server thread/INFO]: [Cognizar: Set own game mode to Creative Mode]
+[01:05:47] [Server thread/INFO]: <CSGeek01> i dont think so
+[01:06:06] [Server thread/INFO]: <Cognizar> rip
+[01:06:08] [Server thread/INFO]: <Cognizar> whatcha doing
+[01:06:15] [Server thread/INFO]: <CSGeek01> tending the farm
+[01:06:22] [Server thread/INFO]: <Cognizar> gotcha
+[01:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:06:30] [Server thread/INFO]: <Cognizar> does it autogrow?
+[01:06:34] [Server thread/INFO]: <Cognizar> even when were out?
+[01:06:45] [Server thread/INFO]: <CSGeek01> probably not
+[01:06:52] [Server thread/INFO]: <CSGeek01> cause none of the wheat is ready
+[01:07:01] [Server thread/INFO]: <CSGeek01> or carrots or potatoes
+[01:07:03] [Server thread/INFO]: <Cognizar> we were out for about 2h there, was the sugarcane fully grown when you came in?
+[01:07:10] [Server thread/INFO]: <CSGeek01> nope
+[01:07:13] [Server thread/INFO]: <Cognizar> bruh
+[01:07:22] [Server thread/INFO]: <CSGeek01> like maybe 2 had 3
+[01:07:26] [Server thread/INFO]: <CSGeek01> rest were e
+[01:07:27] [Server thread/INFO]: <CSGeek01> 2
+[01:07:53] [Server thread/INFO]: <Cognizar> so much basalt delta and soul sand
+[01:08:24] [Server thread/INFO]: <CSGeek01> im coming to nether
+[01:08:29] [Server thread/INFO]: <CSGeek01> hopefully i survive
+[01:09:09] [Server thread/INFO]: Cognizar has completed the challenge [Hot Tourist Destinations]
+[01:09:16] [Server thread/INFO]: <Cognizar> finally
+[01:09:29] [Server thread/WARN]: Cognizar moved too quickly! -6.622714541655046,0.0,7.847731900155281
+[01:09:29] [Server thread/WARN]: CSGeek01 moved too quickly! 0.0,-10.05000039935112,0.0
+[01:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[01:09:30] [Server thread/INFO]: <CSGeek01> nice
+[01:09:59] [Server thread/INFO]: <Cognizar> what is that achievement?
+[01:10:08] [Server thread/INFO]: <CSGeek01> visit all nether biomes
+[01:10:17] [Server thread/INFO]: <CSGeek01> also i chickened out
+[01:10:21] [Server thread/INFO]: <CSGeek01> too many piglins
+[01:10:21] [Server thread/INFO]: <Cognizar> wdym
+[01:12:14] [Server thread/WARN]: Cognizar moved too quickly! 4.285448018129927,3.3750001341104507,8.655288843107797
+[01:13:02] [Server thread/INFO]: <CSGeek01> if you come back watch out
+[01:13:05] [Server thread/INFO]: <Cognizar> why
+[01:13:10] [Server thread/INFO]: <CSGeek01> zombie piglin in the door
+[01:13:37] [Server thread/INFO]: <Cognizar> bruh
+[01:13:53] [Server thread/INFO]: <Cognizar> okay I need to get soul speed on these boots
+[01:14:32] [Server thread/WARN]: Cognizar moved too quickly! -2.390807100548237,0.02023934993810883,10.16669896171814
+[01:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[01:16:32] [Server thread/INFO]: <Cognizar> do you like the new base design
+[01:16:39] [Server thread/INFO]: <CSGeek01> yeah
+[01:16:54] [Server thread/INFO]: <Cognizar> rly? even the shapeless room?
+[01:17:07] [Server thread/INFO]: <CSGeek01> you mean this?
+[01:17:09] [Server thread/INFO]: <Cognizar> oh btw jeremiah give me ur gear
+[01:17:10] [Server thread/INFO]: <Cognizar> yeah
+[01:17:58] [Server thread/INFO]: <Cognizar> also get your new sword and bow
+[01:18:09] [Server thread/INFO]: <CSGeek01> i might lose those
+[01:18:11] [Server thread/INFO]: <Cognizar> and pickaxe
+[01:18:14] [Server thread/INFO]: <Cognizar> dw
+[01:18:18] [Server thread/INFO]: <Cognizar> well just get new ones
+[01:18:22] [Server thread/INFO]: <CSGeek01> ok
+[01:19:31] [Server thread/INFO]: Leucoptera[/99.7.181.25:58903] logged in with entity id 12333 at (188.30000001192093, 68.0, -271.30000001192093)
+[01:19:31] [Server thread/INFO]: Leucoptera joined the game
+[01:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[01:19:36] [Server thread/INFO]: <CSGeek01> hey
+[01:19:41] [Server thread/INFO]: <Leucoptera> eyo
+[01:19:50] [Server thread/INFO]: <Leucoptera> hey jerry
+[01:19:53] [Server thread/INFO]: <Cognizar> hello
+[01:19:59] [Server thread/INFO]: [Cognizar: Set own game mode to Survival Mode]
+[01:20:00] [Server thread/INFO]: <Leucoptera> we got a golden carrot guy here
+[01:20:04] [Server thread/INFO]: <Cognizar> pog
+[01:20:11] [Server thread/INFO]: <Cognizar> means night vision and invisibilit
+[01:20:22] [Server thread/INFO]: <Leucoptera> actually e have 2
+[01:20:29] [Server thread/INFO]: <Leucoptera> one of the original survivors has golden carr
+[01:21:20] [Server thread/INFO]: <Leucoptera> whatch yall doin
+[01:21:28] [Server thread/INFO]: <Cognizar> nether
+[01:21:30] [Server thread/INFO]: <Leucoptera> and y u in creative
+[01:21:34] [Server thread/INFO]: <Leucoptera> o
+[01:21:46] [Server thread/INFO]: <Cognizar> because i got tired of trying to find a warped forest the normal way
+[01:22:01] [Server thread/INFO]: <Cognizar> (there isn't one that's not miles away from our base)
+[01:22:35] [Server thread/INFO]: <Leucoptera> did anyone do a round of farming jus now
+[01:22:45] [Server thread/INFO]: <Leucoptera> if so where the stuff
+[01:22:55] [Server thread/INFO]: <Cognizar> jeremiah did
+[01:23:00] [Server thread/INFO]: <Leucoptera> @jeremiah?
+[01:23:07] [Server thread/INFO]: <CSGeek01> yes
+[01:23:16] [Server thread/INFO]: <Leucoptera> where stuff at
+[01:23:25] [Server thread/WARN]: Fetching packet for removed entity bcv['Stone Button'/13152, l='ServerLevel[world]', x=-250.52, y=15.00, z=-290.96]
+[01:23:28] [Server thread/INFO]: <CSGeek01> chest
+[01:23:32] [Server thread/INFO]: <Leucoptera> whcih
+[01:23:34] [Server thread/INFO]: <CSGeek01> i only got melons
+[01:23:37] [Server thread/INFO]: <Leucoptera> o ok
+[01:23:40] [Server thread/INFO]: <Cognizar> okay pranav if we're going to find that warped forest
+[01:23:44] [Server thread/INFO]: <Cognizar> we will need soul speed
+[01:23:50] [Server thread/INFO]: <Leucoptera> how far is it
+[01:23:53] [Server thread/INFO]: <Leucoptera> use teh locate command
+[01:24:31] [Server thread/INFO]: <Cognizar> 500 blocks negative Z, all across lava or soul sand biome
+[01:25:38] [Server thread/INFO]: <Cognizar> hey whats this
+[01:25:59] [Server thread/INFO]: <Cognizar> what is the purpose of this cobble pillar
+[01:26:10] [Server thread/INFO]: <Leucoptera> oh just like
+[01:26:16] [Server thread/INFO]: <Leucoptera> intermediary to other village
+[01:26:28] [Server thread/INFO]: <Leucoptera> i was running back and forth quite a lot and was ex to keep direction with tthat
+[01:26:35] [Server thread/INFO]: <Leucoptera> ez*
+[01:26:48] [Server thread/INFO]: <Leucoptera> yo jeremiah can u pass me a shovel
+[01:26:48] [Server thread/INFO]: <Cognizar> should I make saturation sus stews?
+[01:27:25] [Server thread/INFO]: <Cognizar> use looting sword
+[01:27:34] [Server thread/INFO]: <CSGeek01> on cows?
+[01:27:41] [Server thread/INFO]: <Cognizar> yeah extra leather and beef
+[01:28:09] [Server thread/INFO]: <Cognizar> im going back nether
+[01:28:37] [Server thread/INFO]: <Cognizar> actually
+[01:28:47] [Server thread/INFO]: <Cognizar> do you guys just want to night mob hunt
+[01:28:56] [Server thread/INFO]: <Cognizar> because there are no crimson forests in a 500 block radius
+[01:29:04] [Server thread/INFO]: <CSGeek01> sure
+[01:29:13] [Server thread/INFO]: <Leucoptera> what mats we need?
+[01:29:20] [Server thread/INFO]: <Cognizar> ender pearls only
+[01:29:30] [Server thread/INFO]: <Leucoptera> hm ok
+[01:29:31] [Server thread/INFO]: <Cognizar> gunpowder is a plus so I can craft a rocket launcher
+[01:29:41] [Server thread/INFO]: <CSGeek01> we have 3
+[01:29:42] [Server thread/INFO]: <CSGeek01> 2
+[01:29:46] [Server thread/INFO]: <Leucoptera> mending sword so we can jsut use that right
+[01:29:51] [Server thread/INFO]: <Cognizar> yeah
+[01:29:55] [Server thread/INFO]: <Cognizar> plus looting
+[01:30:05] [Server thread/INFO]: <Cognizar> use farm as home base
+[01:30:17] [Server thread/INFO]: <Cognizar> gonna pass an extended regen up
+[01:30:40] [Server thread/INFO]: <Cognizar> hey jeremiah have a splash healing and regen
+[01:30:54] [Server thread/INFO]: <Cognizar> one coming to you too pranavb
+[01:31:05] [Server thread/INFO]: <CSGeek01> night is falling
+[01:31:17] [Server thread/INFO]: <Leucoptera> theres a hole in fence
+[01:31:43] [Server thread/INFO]: <Cognizar> pranav take ur potions
+[01:34:50] [Server thread/INFO]: <Leucoptera> SET TO DIFFICULTY NORMAL OR SMTH
+[01:34:53] [Server thread/INFO]: <Leucoptera> MOB SPAWN RATE TRASH
+[01:34:54] [Server thread/INFO]: <Cognizar> why
+[01:34:58] [Server thread/INFO]: <Leucoptera> oop caps
+[01:35:09] [Server thread/INFO]: <CSGeek01> you guys ok up there?
+[01:35:11] [Server thread/INFO]: <Leucoptera> i have to waste hunger running over to mobs
+[01:35:17] [Server thread/INFO]: <Leucoptera> yeah
+[01:35:19] [Server thread/INFO]: <Cognizar> ok
+[01:35:23] [Server thread/INFO]: [Cognizar: The difficulty has been set to Normal]
+[01:35:38] [Server thread/INFO]: <CSGeek01> careful
+[01:35:41] [Server thread/INFO]: <CSGeek01> phantoms
+[01:36:19] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[01:36:19] [Server thread/INFO]: Leucoptera left the game
+[01:38:50] [Server thread/INFO]: <Cognizar> how many
+[01:38:55] [Server thread/INFO]: <CSGeek01> one
+[01:38:57] [Server thread/INFO]: <Cognizar> give
+[01:39:13] [Server thread/INFO]: Leucoptera[/99.7.181.25:59808] logged in with entity id 16180 at (-180.78043222408445, 69.0, -304.7620968634952)
+[01:39:13] [Server thread/INFO]: Leucoptera joined the game
+[01:39:45] [Server thread/INFO]: <Cognizar> hey pranav we have 2 ender pearls
+[01:39:52] [Server thread/INFO]: <Cognizar> im going to go find the fortress
+[01:40:20] [Server thread/INFO]: <Leucoptera> crap enderman died to fire not my sword
+[01:40:24] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[01:40:24] [Server thread/INFO]: Leucoptera left the game
+[01:41:04] [Server thread/INFO]: Leucoptera[/99.7.181.25:60005] logged in with entity id 16480 at (-186.209020419704, 69.0, -303.4571405228407)
+[01:41:04] [Server thread/INFO]: Leucoptera joined the game
+[01:41:07] [Server thread/INFO]: <Cognizar> here give
+[01:41:17] [Server thread/INFO]: <Leucoptera> where u at i got a pearl
+[01:41:24] [Server thread/INFO]: <Cognizar> base we have 4
+[01:41:24] [Server thread/INFO]: <CSGeek01> badse
+[01:41:28] [Server thread/INFO]: <Cognizar> lets go find the fortress
+[01:41:47] [Server thread/INFO]: CSGeek01 has made the advancement [Spooky Scary Skeleton]
+[01:42:03] [Server thread/INFO]: <Cognizar> pog
+[01:42:07] [Server thread/INFO]: <Cognizar> okay lets go
+[01:42:14] [Server thread/INFO]: <Cognizar> bring beds
+[01:42:16] [Server thread/INFO]: <CSGeek01> ill just follow you
+[01:42:20] [Server thread/INFO]: <CSGeek01> wait why
+[01:42:24] [Server thread/INFO]: <Leucoptera> where we go?
+[01:42:29] [Server thread/INFO]: <Cognizar> find stronghold
+[01:42:37] [Server thread/INFO]: <Cognizar> this journey will take ~1000-1500 blocks
+[01:42:41] [Server thread/INFO]: <Cognizar> so bring beds
+[01:42:51] [Server thread/INFO]: <Leucoptera> we can pick em up at villa
+[01:42:55] [Server thread/INFO]: <CSGeek01> i got bed
+[01:42:56] [Server thread/INFO]: <Cognizar> lets go
+[01:43:17] [Server thread/INFO]: <Cognizar> okay pranav come here
+[01:43:22] [Server thread/INFO]: <Cognizar> lets all see where the first one goes
+[01:43:30] [Server thread/INFO]: <Leucoptera> whre
+[01:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[01:43:40] [Server thread/INFO]: <Leucoptera> i need bed
+[01:43:46] [Server thread/INFO]: <Leucoptera> lemme get bed
+[01:43:53] [Server thread/INFO]: <CSGeek01> one in village
+[01:43:56] [Server thread/INFO]: <Cognizar> okay we travel that direction for 1000 blocks then we check again
+[01:44:06] [Server thread/INFO]: <Cognizar> wait jeremiah
+[01:44:12] [Server thread/INFO]: <Cognizar> while pranav is doing that can you make a compass
+[01:44:21] [Server thread/INFO]: <CSGeek01> uhh
+[01:44:27] [Server thread/INFO]: <Cognizar> I got it
+[01:44:51] [Server thread/INFO]: <Cognizar> okay lets go
+[01:45:10] [Server thread/INFO]: <Cognizar> travel for 1000 blocks then we check again
+[01:45:55] [Server thread/INFO]: <Cognizar> wait pranav
+[01:45:58] [Server thread/INFO]: <Cognizar> wait for jeremiah
+[01:46:28] [Server thread/INFO]: <Leucoptera> wtf
+[01:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:46:38] [Server thread/INFO]: <Cognizar> cool
+[01:46:42] [Server thread/INFO]: <Cognizar> but lets go there first
+[01:46:49] [Server thread/INFO]: <Leucoptera> mark coords?
+[01:46:56] [Server thread/INFO]: <Cognizar> you can
+[01:47:29] [Server thread/INFO]: <Leucoptera> what are base coords
+[01:47:36] [Server thread/INFO]: <Cognizar> I have compass
+[01:48:31] [Server thread/INFO]: <Cognizar> jeremiag?
+[01:48:41] [Server thread/INFO]: <Cognizar> next time we hit plains we eye again
+[01:49:10] [Server thread/INFO]: <Cognizar> wait for jeremiah
+[01:49:41] [Server thread/WARN]: Leucoptera moved too quickly! -10.034223125779818,1.1661092609382138,0.11538398746593259
+[01:50:24] [Server thread/INFO]: <Cognizar> sleep
+[01:50:34] [Server thread/INFO]: <Leucoptera> sleep
+[01:50:51] [Server thread/INFO]: <Cognizar> okay eye again
+[01:50:53] [Server thread/INFO]: <CSGeek01> where u at?
+[01:51:09] [Server thread/INFO]: <Cognizar> jeremiah?
+[01:51:16] [Server thread/INFO]: <Cognizar> oh there he is
+[01:51:18] [Server thread/INFO]: <Leucoptera> just keep going in that direction until u hit plains
+[01:51:25] [Server thread/INFO]: <Cognizar> hes behind u
+[01:52:02] [Server thread/INFO]: <Cognizar> we should be close
+[01:52:50] [Server thread/INFO]: <Cognizar> were close
+[01:54:15] [Server thread/INFO]: <Leucoptera> yet another
+[01:54:38] [Server thread/INFO]: <Cognizar> eye on the ball pranav
+[01:54:46] [Server thread/INFO]: <Leucoptera> i was screenshot coord
+[01:54:56] [Server thread/INFO]: <Leucoptera> did u run ahead
+[01:55:01] [Server thread/INFO]: <Cognizar> no we doubled back
+[01:55:05] [Server thread/INFO]: <Cognizar> eye told us to go back
+[01:55:11] [Server thread/INFO]: <Cognizar> we are close
+[01:55:21] [Server thread/INFO]: <Cognizar> -2034 82
+[01:55:52] [Server thread/INFO]: <Cognizar> we are back at the village
+[01:56:13] [Server thread/INFO]: <Cognizar> pranav
+[01:56:22] [Server thread/INFO]: <Cognizar> okay back at it
+[01:57:11] [Server thread/INFO]: <Cognizar> its underneath us
+[01:57:16] [Server thread/INFO]: <Leucoptera> IDTS
+[01:57:24] [Server thread/INFO]: <Cognizar> it is
+[01:57:24] [Server thread/INFO]: <Leucoptera> else it would go like underground
+[01:57:30] [Server thread/INFO]: <CSGeek01> eye will fall stright down
+[01:57:31] [Server thread/INFO]: <Cognizar> what do you mean
+[01:57:43] [Server thread/INFO]: <Leucoptera> the pearl would float into ground if it was underneath us
+[01:57:46] [Server thread/INFO]: <Cognizar> i dont want to keep eyeing in this place
+[01:57:53] [Server thread/INFO]: <Cognizar> we already lost one
+[01:57:54] [Server thread/INFO]: <Leucoptera> ok spread out then
+[01:58:08] [Server thread/INFO]: <CSGeek01> bruh
+[01:59:09] [Server thread/INFO]: <Cognizar> its somewhere around here for sure
+[01:59:17] [Server thread/INFO]: <Leucoptera> i didnt find it coming back up
+[01:59:31] [Server thread/INFO]: <Cognizar> ???
+[01:59:43] [Server thread/INFO]: <Leucoptera> i did not find it, i am coming bak up
+[01:59:44] [Server thread/INFO]: <Cognizar> were down to 2
+[01:59:54] [Server thread/INFO]: <Cognizar> its 100% in this area
+[02:00:04] [Server thread/INFO]: <Leucoptera> bro i mean that the hole i dug didn't hit it
+[02:00:12] [Server thread/INFO]: <Cognizar> oh come up
+[02:00:25] [Server thread/INFO]: <Leucoptera> yes now wht
+[02:00:29] [Server thread/INFO]: <CSGeek01> here ill throw one
+[02:00:37] [Server thread/INFO]: <Leucoptera> come up and throw
+[02:00:50] [Server thread/INFO]: <Leucoptera> come to me and throw
+[02:01:06] [Server thread/INFO]: <Cognizar> landed on this tree
+[02:01:07] [Server thread/INFO]: <Leucoptera> just tp if not close
+[02:01:14] [Server thread/INFO]: <Leucoptera> from which direction tho
+[02:01:17] [Server thread/INFO]: <Cognizar> sleep
+[02:01:24] [Server thread/INFO]: <Leucoptera> bro ok give me a pearl
+[02:01:35] [Server thread/INFO]: <Leucoptera> wya
+[02:01:59] [Server thread/INFO]: <Leucoptera> which way it went?
+[02:02:03] [Server thread/INFO]: <Cognizar> uhhh
+[02:02:08] [Server thread/INFO]: <Cognizar> negative X
+[02:02:16] [Server thread/INFO]: <Cognizar> try here
+[02:02:20] [Server thread/INFO]: <Leucoptera> and did it go straight up or down, or was it angled like normal
+[02:02:26] [Server thread/INFO]: <CSGeek01> angle
+[02:02:44] [Server thread/INFO]: <Cognizar> whered it go
+[02:03:14] [Server thread/INFO]: Leucoptera has made the advancement [Eye Spy]
+[02:03:17] [Server thread/INFO]: <Leucoptera> lets go
+[02:03:49] [Server thread/INFO]: CSGeek01 has made the advancement [Eye Spy]
+[02:04:08] [Server thread/INFO]: <Cognizar> well lets go
+[02:04:17] [Server thread/INFO]: <CSGeek01> DONT HIT SILVERFISH
+[02:04:22] [Server thread/INFO]: <Cognizar> wait
+[02:04:25] [Server thread/INFO]: <Cognizar> lets go back up
+[02:04:28] [Server thread/INFO]: <Leucoptera> y
+[02:04:32] [Server thread/INFO]: <Cognizar> make ourselves axes
+[02:04:37] [Server thread/INFO]: <Leucoptera> i got one
+[02:04:38] [Server thread/INFO]: <Cognizar> so the sweeping edge doesnt get us
+[02:04:42] [Server thread/INFO]: <Leucoptera> wait i have all material here
+[02:04:52] [Server thread/INFO]: <Cognizar> okay give us axes
+[02:05:02] [Server thread/INFO]: <Leucoptera> 3 axes made
+[02:05:03] [Server thread/INFO]: <Cognizar> wait jeremiah has one
+[02:05:09] [Server thread/INFO]: <CSGeek01> oh and always have f3 when mining
+[02:05:17] [Server thread/INFO]: <CSGeek01> shows silverfish
+[02:05:20] [Server thread/INFO]: <Cognizar> wait guys I gotta go
+[02:05:28] [Server thread/INFO]: <Leucoptera> o ok
+[02:05:31] [Server thread/INFO]: <Cognizar> crap
+[02:05:36] [Server thread/INFO]: <Cognizar> you guys find the portal without me
+[02:05:41] [Server thread/INFO]: <Cognizar> we activate the portal with josh
+[02:05:41] [Server thread/INFO]: <CSGeek01> bruh
+[02:05:50] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[02:05:50] [Server thread/INFO]: Cognizar left the game
+[02:06:27] [Server thread/INFO]: <Leucoptera> sry
+[02:07:46] [Server thread/INFO]: <Leucoptera> split up
+[02:09:16] [Server thread/INFO]: <Leucoptera> split up bro
+[02:09:24] [Server thread/INFO]: <CSGeek01> no
+[02:09:30] [Server thread/INFO]: <Leucoptera> y
+[02:09:58] [Server thread/INFO]: <Leucoptera> where do i see block in f3
+[02:10:05] [Server thread/INFO]: <CSGeek01> bottom right
+[02:10:12] [Server thread/INFO]: <CSGeek01> or middle
+[02:12:29] [Server thread/INFO]: <Leucoptera> 3 pearls whoo
+[02:13:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:13:51] [Server thread/INFO]: dont worry your guardian angel is still watching over you<--[HERE]
+[02:15:24] [Server thread/INFO]: <Leucoptera> bruh
+[02:17:08] [Server thread/INFO]: <CSGeek01> found?
+[02:17:18] [Server thread/INFO]: <Leucoptera> no oof
+[02:18:47] [Server thread/INFO]: [Server] dont worry your guardian angel is still watching ovet you
+[02:18:53] [Server thread/INFO]: [Server] over crap
+[02:19:11] [Server thread/INFO]: <Leucoptera> this stronghold is 40000000000000 blocks wide and deep wtf
+[02:22:04] [Server thread/INFO]: <Leucoptera> well dang, creeper x3
