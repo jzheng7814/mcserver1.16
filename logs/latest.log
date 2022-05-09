@@ -1,1247 +1,880 @@
-[05:39:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:39:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:39:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:39:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:39:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:39:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:39:16] [main/INFO]: Reloading ResourceManager: Default
-[05:39:18] [Worker-Main-2/INFO]: Loaded 7 recipes
-[05:39:19] [Worker-Main-2/INFO]: Loaded 927 advancements
-[05:39:23] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[05:39:23] [Server thread/INFO]: Loading properties
-[05:39:23] [Server thread/INFO]: Default game type: SURVIVAL
-[05:39:23] [Server thread/INFO]: Generating keypair
-[05:39:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:39:23] [Server thread/INFO]: Using epoll channel type
-[05:39:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:39:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:39:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:39:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:39:24] [Server thread/INFO]: Preparing level "world"
-[05:39:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Server thread/INFO]: Preparing spawn area: 0%
-[05:39:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:39:28] [Server thread/INFO]: Preparing spawn area: 20%
-[05:39:29] [Server thread/INFO]: Preparing spawn area: 24%
-[05:39:29] [Server thread/INFO]: Preparing spawn area: 71%
-[05:39:29] [Server thread/INFO]: Time elapsed: 5733 ms
-[05:39:29] [Server thread/INFO]: Done (5.917s)! For help, type "help"
-[05:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[05:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[05:42:16] [Server thread/INFO]: Cognizar[/76.252.251.182:4848] logged in with entity id 386 at (-259.1499238913183, 14.0, -287.1900233665343)
-[05:42:17] [Server thread/INFO]: Cognizar joined the game
-[05:44:00] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[05:44:00] [Server thread/INFO]: Cognizar left the game
-[12:51:14] [Server thread/INFO]: Cognizar[/76.252.251.182:1232] logged in with entity id 640 at (-260.5254097671258, 14.0, -285.30423612209063)
-[12:51:14] [Server thread/INFO]: Cognizar joined the game
-[12:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[12:59:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[13:02:50] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[13:02:50] [Server thread/INFO]: Cognizar left the game
-[13:19:29] [Server thread/INFO]: Cognizar[/76.252.251.182:1717] logged in with entity id 4130 at (-258.3581274603529, 143.25560713137193, -268.1312818185383)
-[13:19:29] [Server thread/INFO]: Cognizar joined the game
-[13:21:55] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[13:21:55] [Server thread/INFO]: Cognizar left the game
-[14:15:18] [Server thread/INFO]: Cognizar[/76.252.251.182:2271] logged in with entity id 8292 at (-256.98918502187746, 145.89808887642576, -269.7802269494943)
-[14:15:18] [Server thread/INFO]: Cognizar joined the game
-[14:17:51] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[14:17:51] [Server thread/INFO]: Cognizar left the game
-[14:49:34] [Server thread/INFO]: Leucoptera[/207.157.65.88:12259] logged in with entity id 10895 at (-254.8028059140079, 15.0, -296.69042012866487)
-[14:49:34] [Server thread/INFO]: Leucoptera joined the game
-[14:50:04] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[14:50:04] [Server thread/INFO]: Leucoptera left the game
-[14:50:10] [Server thread/INFO]: Leucoptera[/207.157.65.88:43144] logged in with entity id 11001 at (-254.8028059140079, 15.0, -296.69042012866487)
-[14:50:10] [Server thread/INFO]: Leucoptera joined the game
-[14:50:40] [Server thread/INFO]: Leucoptera lost connection: Timed out
-[14:50:40] [Server thread/INFO]: Leucoptera left the game
-[14:51:05] [Server thread/INFO]: Leucoptera[/165.227.69.210:53649] logged in with entity id 11110 at (-254.8028059140079, 15.0, -296.69042012866487)
-[14:51:05] [Server thread/INFO]: Leucoptera joined the game
-[15:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[15:04:12] [Server thread/INFO]: Cognizar[/76.252.251.182:2875] logged in with entity id 14394 at (-259.2188653972381, 144.389593397606, -274.9576681132709)
-[15:04:12] [Server thread/INFO]: Cognizar joined the game
-[15:04:19] [Server thread/INFO]: <Leucoptera> yo
-[15:05:05] [Server thread/INFO]: <Leucoptera> crops have been flooded by the water stream from the thing up top
-[15:05:16] [Server thread/INFO]: <Cognizar> that shouldnt happen
-[15:05:16] [Server thread/INFO]: <Leucoptera> is that you flying around up there
-[15:05:23] [Server thread/INFO]: <Cognizar> yeah im trying to debug this thing
-[15:05:29] [Server thread/INFO]: <Cognizar> its not working properly
-[15:05:32] [Server thread/INFO]: <Leucoptera> also doesnt that block sunlight up there
-[15:05:37] [Server thread/INFO]: <Leucoptera> crops wont grow?
-[15:05:48] [Server thread/INFO]: <Cognizar> torches still provide light, game only checks light levels
-[15:05:55] [Server thread/INFO]: <Leucoptera> ah ok
-[15:06:00] [Server thread/INFO]: <Cognizar> did you happen to time set day
-[15:06:04] [Server thread/INFO]: <Leucoptera> yeah
-[15:06:07] [Server thread/INFO]: <Cognizar> FUCK
-[15:06:14] [Server thread/INFO]: <Leucoptera> oh did the screw smth
-[15:06:28] [Server thread/INFO]: <Cognizar> these villagers need a sleep cycle or else the golems dont spawn
-[15:06:33] [Server thread/INFO]: <Leucoptera> also im playing w trackpad so like
-[15:06:38] [Server thread/INFO]: <Leucoptera> oh i see
-[15:06:48] [Server thread/INFO]: <Leucoptera> also u saw the zombie right?
-[15:06:53] [Server thread/INFO]: <Cognizar> yeah
-[15:06:55] [Server thread/INFO]: <Leucoptera> alr
-[15:07:07] [Server thread/INFO]: <Leucoptera> wait a stack of iron alr
-[15:07:17] [Server thread/INFO]: <Cognizar> this was set up last night
-[15:07:27] [Server thread/INFO]: <Cognizar> so that is not very good
-[15:07:41] [Server thread/INFO]: <Leucoptera> how long did it take?
-[15:07:49] [Server thread/INFO]: <Cognizar> very fast actually when flying
-[15:08:00] [Server thread/INFO]: <Leucoptera> wait so u didnt make this legit...?
-[15:08:04] [Server thread/INFO]: <Cognizar> when I did it with scaffolding only on my creative test world it took me 30 minutes
-[15:08:16] [Server thread/INFO]: <Leucoptera> bruh
-[15:08:21] [Server thread/INFO]: <Cognizar> no this isnt legit im going to break it when I'm done
-[15:08:24] [Server thread/INFO]: <Leucoptera> we should make this legit
-[15:08:26] [Server thread/INFO]: <Leucoptera> oh ok
-[15:08:35] [Server thread/INFO]: <Cognizar> yeah this was never intended to be permanent
-[15:08:47] [Server thread/INFO]: <Leucoptera> should we time set day in order to rest the guy's sleep
-[15:08:50] [Server thread/INFO]: <Cognizar> but sometimes the tick rate of servers changes things from what they would be singleplaer
-[15:09:00] [Server thread/INFO]: <Cognizar> no these villagers need to sleep
-[15:09:05] [Server thread/INFO]: <Leucoptera> eah
-[15:09:10] [Server thread/INFO]: <Leucoptera> there we go
-[15:09:18] [Server thread/INFO]: <Leucoptera> wait they got oit
-[15:09:33] [Server thread/INFO]: <Cognizar> they need to feel threatened
-[15:09:36] [Server thread/INFO]: <Cognizar> there we go
-[15:09:46] [Server thread/INFO]: <Cognizar> spruce doesnt burn
-[15:09:52] [Server thread/INFO]: <Leucoptera> sign?
-[15:09:55] [Server thread/INFO]: <Leucoptera> the sign?
-[15:10:01] [Server thread/INFO]: <Leucoptera> signs*
-[15:10:05] [Server thread/INFO]: <Cognizar> spruce signs and fences dont burn
-[15:10:08] [Server thread/INFO]: <Cognizar> fence gates do
-[15:10:16] [Server thread/INFO]: <Cognizar> so for that we need to go to the Nether and get crimson wood
-[15:10:18] [Server thread/INFO]: <Leucoptera> ah ok
-[15:10:31] [Server thread/INFO]: <Leucoptera> crimson dont brun either?
-[15:10:38] [Server thread/INFO]: <Cognizar> yeah nether wood doesnt burn
-[15:10:47] [Server thread/INFO]: <Leucoptera> yeah farm is working
-[15:11:01] [Server thread/INFO]: <Cognizar> if I can get this to work this makes 4.5 iron/30 sec = 4200 iron/7 hour
-[15:11:03] [Server thread/INFO]: <Leucoptera> can u fix the water flood down there
-[15:11:22] [Server thread/INFO]: <Leucoptera> also wow thats A LOT OF IRON
-[15:11:40] [Server thread/INFO]: <Cognizar> I measured yields earlier last night
-[15:11:46] [Server thread/INFO]: <Cognizar> but everything broke
-[15:12:03] [Server thread/INFO]: <Cognizar> its so jank the villagers dont seem to panic unless they slept
-[15:12:26] [Server thread/INFO]: <Cognizar> or unless they're trying to sleep
-[15:12:30] [Server thread/INFO]: <Cognizar> i dont understsnd it
-[15:12:36] [Server thread/INFO]: <Leucoptera> hm
-[15:12:39] [Server thread/INFO]: <Leucoptera> yeah idk
-[15:12:58] [Server thread/INFO]: <Cognizar> but as you can see this works just fine that aside
-[15:13:10] [Server thread/INFO]: <Leucoptera> yeah
-[15:13:35] [Server thread/INFO]: <Cognizar> like even though it's only 2 iron golems a minute that stacks really quickly
-[15:13:48] [Server thread/INFO]: <Leucoptera> def
-[15:13:56] [Server thread/INFO]: <Leucoptera> chest(s) will be full in no time
-[15:14:47] [Server thread/INFO]: <Cognizar> if only I can get this prototype to work right
-[15:14:59] [Server thread/INFO]: <Cognizar> then we can count materials and get to work on making it
-[15:15:00] [Server thread/INFO]: <Leucoptera> should i fly up and help
-[15:15:16] [Server thread/INFO]: <Cognizar> wait for it to turn to day then lets see what happens
-[15:15:21] [Server thread/INFO]: <Leucoptera> alr
-[15:15:27] [Server thread/INFO]: <Leucoptera> also 3rd donkey
-[15:15:27] [Server thread/INFO]: <Cognizar> wait why are you here?
-[15:15:31] [Server thread/INFO]: <Leucoptera> how put chest on it
-[15:15:32] [Server thread/INFO]: <Cognizar> is it not school day?
-[15:15:37] [Server thread/INFO]: <Leucoptera> yeah im in phys
-[15:15:43] [Server thread/INFO]: <Leucoptera> we're not doing anything
-[15:15:49] [Server thread/INFO]: <Cognizar> wdym how put chest on it
-[15:15:58] [Server thread/INFO]: <Leucoptera> how put chest in the donkey
-[15:16:03] [Server thread/INFO]: <Cognizar> right click
-[15:16:15] [Server thread/INFO]: <Leucoptera> o ok
-[15:17:33] [Server thread/INFO]: <Cognizar> sorry for making this without you it would have been frustrating though to debug this out live
-[15:17:45] [Server thread/INFO]: <Leucoptera> npnp we can build the real one
-[15:17:49] [Server thread/INFO]: <Cognizar> this only works when it's like a gazillion blocks in the air or else iron golems spawn on the floor
-[15:18:09] [Server thread/INFO]: <Leucoptera> makes sense
-[15:18:24] [Server thread/INFO]: <Cognizar> it will be frustrating to bus zombies and villagers up here
-[15:18:53] [Server thread/INFO]: <Leucoptera> i think we could use boast + successive piston
-[15:18:56] [Server thread/INFO]: <Leucoptera> boat
-[15:19:06] [Server thread/INFO]: <Cognizar> piston elevator?
-[15:19:12] [Server thread/INFO]: <Cognizar> why not water elevator?
-[15:19:25] [Server thread/INFO]: <Leucoptera> will they go up?
-[15:19:36] [Server thread/INFO]: <Cognizar> if we do that soul sand thingy they will
-[15:19:47] [Server thread/INFO]: <Leucoptera> or like will it be easy to make? doesnt each block of water need to be source
-[15:19:59] [Server thread/INFO]: <Cognizar> how do you make piston elevator?
-[15:20:41] [Server thread/INFO]: <Leucoptera> just piston the boat up, place block to side, boat onto that block, move piston up a block, boat onto piston again, piston up, repeat
-[15:20:53] [Server thread/INFO]: <Cognizar> you can do that ill get frustrated
-[15:21:03] [Server thread/INFO]: <Cognizar> we can actually prototype that rn
-[15:21:05] [Server thread/INFO]: <Leucoptera> it goes lightning fast with 2 ppl
-[15:21:44] [Server thread/INFO]: <Cognizar> come up here and watch
-[15:22:18] [Server thread/INFO]: <Leucoptera> comin
-[15:22:58] [Server thread/INFO]: <Cognizar> it takes a while hold on
-[15:23:02] [Server thread/INFO]: <Leucoptera> worked
-[15:23:32] [Server thread/INFO]: <Cognizar> wait now with clear weather does this work
-[15:23:50] [Server thread/INFO]: <Leucoptera> ye
-[15:24:02] [Server thread/INFO]: <Cognizar> ?????
-[15:24:07] [Server thread/INFO]: <Leucoptera> what
-[15:24:17] [Server thread/INFO]: <Cognizar> then why wasn't this working like, all night?
-[15:25:52] [Server thread/INFO]: <Leucoptera> idk
-[15:26:04] [Server thread/INFO]: <Cognizar> what is it getting caught on
-[15:26:09] [Server thread/INFO]: <Cognizar> wait look at this
-[15:26:24] [Server thread/INFO]: <Leucoptera> its standing on the door
-[15:26:28] [Server thread/INFO]: <Leucoptera> wait what
-[15:26:54] [Server thread/INFO]: <Leucoptera> ywah look im doing it
-[15:27:02] [Server thread/INFO]: <Leucoptera> i have no idea what im standing on
-[15:27:03] [Server thread/INFO]: <Cognizar> what are you stadning on
-[15:27:04] [Server thread/INFO]: <Leucoptera> LMAO
-[15:27:16] [Server thread/INFO]: <Leucoptera> this block right here
-[15:28:38] [Server thread/INFO]: <Leucoptera> oh oyh
-[15:28:57] [Server thread/INFO]: <Cognizar> no
-[15:29:39] [Server thread/INFO]: <Cognizar> no it will just stand on the block
-[15:29:51] [Server thread/INFO]: <Leucoptera> it cant dude
-[15:29:57] [Server thread/INFO]: <Leucoptera> if you pillar it it cant
-[15:29:59] [Server thread/INFO]: <Cognizar> lets try it
-[15:30:33] [Server thread/INFO]: <Leucoptera> can it fit thru the gap im in rn
-[15:30:40] [Server thread/INFO]: <Cognizar> no it's 1.5 blocks wide
-[15:30:54] [Server thread/INFO]: <Leucoptera> ok then its good
-[15:30:54] [Server thread/INFO]: <Cognizar> wait why did they stop spawning
-[15:31:13] [Server thread/INFO]: <Leucoptera> does it need to be lit up
-[15:31:53] [Server thread/INFO]: <Cognizar> the villagers need to sleep every day
-[15:31:55] [Server thread/INFO]: <Cognizar> and they werent
-[15:32:00] [Server thread/INFO]: <Cognizar> thats why it was breaking
-[15:32:12] [Server thread/INFO]: <Cognizar> we have to have sticky pistons on a clock
-[15:32:14] [Server thread/INFO]: <Leucoptera> and why werent they sleeping
-[15:32:23] [Server thread/INFO]: <Leucoptera> how does that fix it
-[15:32:26] [Server thread/INFO]: <Cognizar> because they felt threatened by the zombie
-[15:32:39] [Server thread/INFO]: <Leucoptera> if they feel threatened to they sleep or not sleep
-[15:32:43] [Server thread/INFO]: <Leucoptera> do
-[15:32:50] [Server thread/INFO]: <Cognizar> they dont sleep
-[15:32:55] [Server thread/INFO]: <Cognizar> come watch
-[15:32:56] [Server thread/INFO]: <Leucoptera> then why is zombie there
-[15:33:18] [Server thread/INFO]: <Leucoptera> y is zombie there
-[15:33:29] [Server thread/INFO]: <Cognizar> as soon as the villagers "see" the zombie they get up
-[15:33:43] [Server thread/INFO]: <Leucoptera> ok but that means they cant sleep right
-[15:33:47] [Server thread/INFO]: <Leucoptera> so why do we have the zombie
-[15:33:57] [Server thread/INFO]: <Leucoptera> if they need to sleep
-[15:33:58] [Server thread/INFO]: <Cognizar> so they feel threatened
-[15:34:07] [Server thread/INFO]: <Cognizar> iron golems only spawn if they feel threatened
-[15:34:09] [Server thread/INFO]: <Leucoptera> you just said that makes them not sleep
-[15:34:11] [Server thread/INFO]: <Cognizar> but they also need to sleep
-[15:34:12] [Server thread/INFO]: <Leucoptera> oh
-[15:34:20] [Server thread/INFO]: <Leucoptera> then wait how does the farm working then
-[15:34:24] [Server thread/INFO]: <Cognizar> as you can see they spawned right after I made them sleep and get up
-[15:34:25] [Server thread/INFO]: <Leucoptera> how is the farm working then*
-[15:34:26] [Server thread/INFO]: <Cognizar> i dunno
-[15:34:31] [Server thread/INFO]: <Cognizar> oh
-[15:34:37] [Server thread/INFO]: <Cognizar> uh the villagers slept for a split second
-[15:34:42] [Server thread/INFO]: <Cognizar> then I made them scared again
-[15:34:44] [Server thread/INFO]: <Leucoptera> oh
-[15:34:47] [Server thread/INFO]: <Cognizar> we need to have pistons on a clock
-[15:34:52] [Server thread/INFO]: <Leucoptera> yeah
-[15:35:20] [Server thread/INFO]: <Cognizar> sticky pistons that activate the blocks for a minute to let them get in bed, then take them away for about 20 minutes
-[15:35:22] [Server thread/INFO]: <Leucoptera> how did you make the piston clock down there
-[15:35:34] [Server thread/INFO]: <Leucoptera> is night + day 20 mins?
-[15:35:41] [Server thread/INFO]: <Cognizar> the 1-wide hopper clock wouldnt work here because it sets consistent intervals
-[15:35:52] [Server thread/INFO]: <Cognizar> we need 2 differing intervals here
-[15:35:56] [Server thread/INFO]: <Leucoptera> y
-[15:35:59] [Server thread/INFO]: <Cognizar> keep the block up for 1 minute and away for 19
-[15:36:05] [Server thread/INFO]: <Leucoptera> oh i see
-[15:36:06] [Server thread/INFO]: <Cognizar> to maximize iron production
-[15:36:25] [Server thread/INFO]: <Cognizar> man this is so frustrating lowkey
-[15:36:55] [Server thread/INFO]: <Leucoptera> we can just replicate this one but twice
-[15:37:04] [Server thread/INFO]: <Cognizar> this is a very fast build
-[15:37:10] [Server thread/INFO]: <Cognizar> getting things into position is way harder
-[15:37:38] [Server thread/INFO]: <Cognizar> as you can see it's just a ton of stone and glass
-[15:37:41] [Server thread/INFO]: <Cognizar> very easy to make
-[15:37:52] [Server thread/INFO]: <Cognizar> even the fences can just be cobble walls
-[15:39:04] [Server thread/INFO]: <Cognizar> wya
-[15:39:14] [Server thread/INFO]: <Leucoptera> tryan see how this clock works
-[15:39:25] [Server thread/INFO]: <Cognizar> oh the 1-wide hopper clock?
-[15:39:29] [Server thread/INFO]: <Cognizar> the pistons are sticky btw
-[15:39:30] [Server thread/INFO]: <Leucoptera> no its 6 wide
-[15:39:38] [Server thread/INFO]: <Cognizar> no 1-wide
-[15:39:44] [Server thread/INFO]: <Leucoptera> oh 1x6
-[15:39:46] [Server thread/INFO]: <Cognizar> wide refers to the least wide side
-[15:40:37] [Server thread/INFO]: <Cognizar> comparator is going wrong wat
-[15:41:45] [Server thread/INFO]: <Cognizar> hoppers dispense at 1 obj/s
-[15:41:57] [Server thread/INFO]: <Cognizar> put in 1/2 # of s you want
-[15:42:12] [Server thread/INFO]: <Leucoptera> so min is 2s
-[15:42:25] [Server thread/INFO]: <Cognizar> min is 30 objs
-[15:42:33] [Server thread/INFO]: <Leucoptera> oh so 60
-[15:42:38] [Server thread/INFO]: <Leucoptera> secs
-[15:42:41] [Server thread/INFO]: <Cognizar> so put 30 dead bushes in a side
-[15:44:03] [Server thread/INFO]: <Cognizar> do you see how the clock works?
-[15:44:47] [Server thread/INFO]: <Leucoptera> which hopper do i put the initial 30 into
-[15:44:58] [Server thread/INFO]: <Leucoptera> and why wont it work for under 30
-[15:44:59] [Server thread/INFO]: <Cognizar> the side where the redstone block is initially
-[15:45:08] [Server thread/INFO]: <Cognizar> the clock does work for under 30
-[15:45:34] [Server thread/INFO]: <Leucoptera> uh
-[15:45:45] [Server thread/INFO]: <Cognizar> see
-[15:45:55] [Server thread/INFO]: <Cognizar> pull the lever to turn the clock back on
-[15:46:04] [Server thread/INFO]: <Leucoptera> wheres the dirt the dirt it gone
-[15:46:08] [Server thread/INFO]: <Cognizar> i took it
-[15:46:22] [Server thread/INFO]: <Leucoptera> lever not working
-[15:46:28] [Server thread/INFO]: <Leucoptera> oh that way
-[15:46:37] [Server thread/INFO]: <Leucoptera> y dead bush?
-[15:46:41] [Server thread/INFO]: <Cognizar> anything works
-[15:46:46] [Server thread/INFO]: <Cognizar> i just like dead bush for the memes
-[15:47:25] [Server thread/INFO]: <Leucoptera> ok the time is half of what you put in
-[15:47:35] [Server thread/INFO]: <Leucoptera> hopper dispenses 2 items per second
-[15:47:52] [Server thread/INFO]: <Cognizar> it does?
-[15:47:55] [Server thread/INFO]: <Cognizar> i actually didnt know that
-[15:48:09] [Server thread/INFO]: <Cognizar> that explains why the water is up longer than it takes to kill precisely 1 chicken
-[15:48:13] [Server thread/INFO]: <Leucoptera> yeah i put 10 bush in, its a 5 second signal
-[15:48:28] [Server thread/INFO]: <Cognizar> but there is your hopper clock
-[15:48:37] [Server thread/INFO]: <Leucoptera> wait no its a 10s interval
-[15:48:44] [Server thread/INFO]: <Leucoptera> so however many u put in = the interval
-[15:48:47] [Server thread/INFO]: <Cognizar> yeah it pushes the block back and forth
-[15:48:49] [Server thread/INFO]: <Cognizar> in seconds
-[15:48:52] [Server thread/INFO]: <Leucoptera> yeah
-[15:49:09] [Server thread/INFO]: <Leucoptera> so for up there we need to put in 20*60 = 1200
-[15:49:18] [Server thread/INFO]: <Leucoptera> we dont have enough space for that
-[15:49:26] [Server thread/INFO]: <Leucoptera> we could have a series of them tho?
-[15:49:34] [Server thread/INFO]: <Cognizar> no the issue is the uneven intervals
-[15:49:45] [Server thread/INFO]: <Leucoptera> we'll just have 2 running
-[15:49:53] [Server thread/INFO]: <Leucoptera> one lags 1 min behind the other
-[15:49:56] [Server thread/INFO]: <Cognizar> ohhhhh I see
-[15:50:00] [Server thread/INFO]: <Cognizar> thats so 5head
-[15:50:14] [Server thread/INFO]: <Leucoptera> or just a repeater ofshoot that'll time for 30s or so
-[15:50:17] [Server thread/INFO]: <Leucoptera> not 30s
-[15:50:20] [Server thread/INFO]: <Leucoptera> like 5s
-[15:50:30] [Server thread/INFO]: <Cognizar> 5s is long enough?
-[15:50:42] [Server thread/INFO]: <Leucoptera> didn't you break/replace the block almost instantly
-[15:50:52] [Server thread/INFO]: <Leucoptera> and golems continued spwaning
-[15:51:09] [Server thread/INFO]: <Leucoptera> bruh itd be so much easier to build this with a mouse lmao
-[15:51:16] [Server thread/INFO]: <Leucoptera> ima try make it
-[15:51:22] [Server thread/INFO]: <Cognizar> make what?
-[15:51:26] [Server thread/INFO]: <Leucoptera> the clok
-[15:51:31] [Server thread/INFO]: <Cognizar> hold on
-[15:51:35] [Server thread/INFO]: <Cognizar> lets see if golems spawn
-[15:51:43] [Server thread/INFO]: <Leucoptera> yeah it id
-[15:51:49] [Server thread/INFO]: <Cognizar> wait how are they still spawning
-[15:52:00] [Server thread/INFO]: <Leucoptera> lets see that may have been residue
-[15:52:09] [Server thread/INFO]: <Cognizar> we wait until they dont spawn anymore
-[15:52:14] [Server thread/INFO]: <Cognizar> just to verify my theory
-[15:52:17] [Server thread/INFO]: <Leucoptera> yeah
-[15:52:40] [Server thread/INFO]: <Leucoptera> ok 1 spawned
-[15:53:53] [Server thread/INFO]: <Cognizar> omg this is like watching paint dry
-[15:53:59] [Server thread/INFO]: <Leucoptera> LMFAO
-[15:53:59] [Server thread/INFO]: <Cognizar> redstone is so frustrating sometimes
-[15:54:20] [Server thread/INFO]: <Leucoptera> think it might have stopped
-[15:54:26] [Server thread/INFO]: <Cognizar> has it been 1 minute?
-[15:54:32] [Server thread/INFO]: <Leucoptera> oh idk
-[15:55:05] [Server thread/INFO]: <Cognizar> okay that is deffo 1 minute now they stopped
-[15:55:08] [Server thread/INFO]: <Cognizar> okay my theory is right
-[15:55:14] [Server thread/INFO]: <Cognizar> they have to sleep once a day
-[15:55:19] [Server thread/INFO]: <Leucoptera> lets try breaking/replacing blocks rly fast and see what happens
-[15:55:37] [Server thread/INFO]: <Cognizar> wait
-[15:55:43] [Server thread/INFO]: <Cognizar> lets see if just 2 villagers is enough
-[15:56:05] [Server thread/INFO]: <Leucoptera> ok 3rd guy didnt sleep
-[15:56:21] [Server thread/INFO]: <Cognizar> yeah
-[15:56:24] [Server thread/INFO]: <Cognizar> all 3 have to sleep
-[15:56:26] [Server thread/INFO]: <Leucoptera> yeap
-[15:56:43] [Server thread/INFO]: <Cognizar> pistons through the bottom I think?
-[15:56:48] [Server thread/INFO]: <Leucoptera> yup
-[15:59:17] [Server thread/INFO]: <Leucoptera> bruh its too close to piston
-[15:59:53] [Server thread/INFO]: <Cognizar> yeah you have ot have the slimeblocks
-[16:00:04] [Server thread/INFO]: <Leucoptera> ro[ zombie
-[16:00:07] [Server thread/INFO]: <Leucoptera> rip*
-[16:00:15] [Server thread/INFO]: <Cognizar> forgot about that tbh
-[16:00:58] [Server thread/INFO]: <Cognizar> uhhh an iron golem just spawned on the water
-[16:01:14] [Server thread/INFO]: <Leucoptera> thats suppoed to happen right
-[16:01:25] [Server thread/INFO]: <Cognizar> no like the water platform up
-[16:01:34] [Server thread/INFO]: <Leucoptera> yeah
-[16:01:38] [Server thread/INFO]: <Cognizar> no like
-[16:01:41] [Server thread/INFO]: <Cognizar> he one we use to get up
-[16:01:48] [Server thread/INFO]: <Leucoptera> oh
-[16:01:48] [Server thread/INFO]: <Cognizar> anyways I need to go now to pack for stats
-[16:01:50] [Server thread/INFO]: <Cognizar> cya
-[16:01:51] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[16:01:51] [Server thread/INFO]: Cognizar left the game
-[16:01:53] [Server thread/INFO]: <Leucoptera> alr gl mate
-[16:01:56] [Server thread/INFO]: <Leucoptera> o
-[16:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[16:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13528ms or 270 ticks behind
-[16:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[16:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
-[16:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8575ms or 171 ticks behind
-[16:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8311ms or 166 ticks behind
-[16:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7117ms or 142 ticks behind
-[16:19:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7593ms or 151 ticks behind
-[16:19:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7154ms or 143 ticks behind
-[16:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6747ms or 134 ticks behind
-[16:20:30] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[16:20:30] [Server thread/INFO]: Leucoptera left the game
-[16:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:22:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
-[16:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
-[16:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
-[16:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
-[16:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
-[16:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
-[16:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
-[16:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
-[16:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[16:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[16:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
-[16:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
-[16:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[16:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
-[16:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:28:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2874ms or 57 ticks behind
-[16:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[16:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3494ms or 69 ticks behind
-[16:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7918ms or 158 ticks behind
-[16:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6750ms or 135 ticks behind
-[16:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6496ms or 129 ticks behind
-[16:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8569ms or 171 ticks behind
-[16:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6627ms or 132 ticks behind
-[16:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
-[16:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7414ms or 148 ticks behind
-[16:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
-[16:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
-[16:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7599ms or 151 ticks behind
-[16:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
-[16:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
-[16:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
-[16:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8789ms or 175 ticks behind
-[16:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6875ms or 137 ticks behind
-[16:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7870ms or 157 ticks behind
-[16:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
-[16:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
-[16:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[16:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7560ms or 151 ticks behind
-[16:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6993ms or 139 ticks behind
-[16:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6302ms or 126 ticks behind
-[16:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
-[16:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
-[16:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
-[16:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
-[16:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
-[16:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
-[16:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
-[16:46:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[16:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3851ms or 77 ticks behind
-[16:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
-[16:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
-[16:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
-[16:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
-[16:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
-[16:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
-[16:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
-[16:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
-[16:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
-[16:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[16:52:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
-[16:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
-[16:52:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[16:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
-[16:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
-[16:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
-[16:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
-[16:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
-[16:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6849ms or 136 ticks behind
-[16:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[16:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7437ms or 148 ticks behind
-[16:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6281ms or 125 ticks behind
-[16:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6048ms or 120 ticks behind
-[16:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7274ms or 145 ticks behind
-[16:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6074ms or 121 ticks behind
-[16:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6154ms or 123 ticks behind
-[16:59:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8285ms or 165 ticks behind
-[16:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
-[17:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6508ms or 130 ticks behind
-[17:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[17:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7353ms or 147 ticks behind
-[17:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6143ms or 122 ticks behind
-[17:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
-[17:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7573ms or 151 ticks behind
-[17:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6076ms or 121 ticks behind
-[17:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6448ms or 128 ticks behind
-[17:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6838ms or 136 ticks behind
-[17:04:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6038ms or 120 ticks behind
-[17:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6111ms or 122 ticks behind
-[17:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[17:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3300ms or 66 ticks behind
-[17:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
-[17:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3855ms or 77 ticks behind
-[17:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
-[17:09:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
-[17:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
-[17:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[17:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[17:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
-[17:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
-[17:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
-[17:13:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
-[17:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
-[17:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
-[17:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[17:14:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[17:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
-[17:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:18:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5333ms or 106 ticks behind
-[17:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
-[17:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5946ms or 118 ticks behind
-[17:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6777ms or 135 ticks behind
-[17:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8023ms or 160 ticks behind
-[17:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
-[17:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7028ms or 140 ticks behind
-[17:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
-[17:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
-[17:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7467ms or 149 ticks behind
-[17:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6144ms or 122 ticks behind
-[17:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5902ms or 118 ticks behind
-[17:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6353ms or 127 ticks behind
-[17:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7364ms or 147 ticks behind
-[17:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5686ms or 113 ticks behind
-[17:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[17:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6627ms or 132 ticks behind
-[17:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6031ms or 120 ticks behind
-[17:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5748ms or 114 ticks behind
-[17:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6672ms or 133 ticks behind
-[17:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5987ms or 119 ticks behind
-[17:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
-[17:29:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6396ms or 127 ticks behind
-[17:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:29:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
-[17:33:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
-[17:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
-[17:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[17:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
-[17:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[17:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
-[17:37:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
-[17:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[17:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3300ms or 66 ticks behind
-[17:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2379ms or 47 ticks behind
-[17:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
-[17:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[17:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
-[17:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[17:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13466ms or 269 ticks behind
-[17:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6072ms or 121 ticks behind
-[17:43:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6593ms or 131 ticks behind
-[17:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6377ms or 127 ticks behind
-[17:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
-[17:44:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
-[17:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
-[17:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6561ms or 131 ticks behind
-[17:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[17:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7370ms or 147 ticks behind
-[17:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6281ms or 125 ticks behind
-[17:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5808ms or 116 ticks behind
-[17:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6874ms or 137 ticks behind
-[17:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6324ms or 126 ticks behind
-[17:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8163ms or 163 ticks behind
-[17:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7783ms or 155 ticks behind
-[17:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
-[17:50:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6905ms or 138 ticks behind
-[17:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7035ms or 140 ticks behind
-[17:52:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
-[17:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[17:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
-[17:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
-[17:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[17:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
-[17:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
-[17:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
-[17:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
-[17:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[17:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
-[17:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
-[17:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
-[17:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[17:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
-[17:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
-[17:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[18:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
-[18:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[18:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
-[18:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
-[18:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[18:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
-[18:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[18:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5564ms or 111 ticks behind
-[18:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4160ms or 83 ticks behind
-[18:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[18:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6967ms or 139 ticks behind
-[18:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
-[18:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
-[18:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7305ms or 146 ticks behind
-[18:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6208ms or 124 ticks behind
-[18:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
-[18:09:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7512ms or 150 ticks behind
-[18:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5878ms or 117 ticks behind
-[18:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5865ms or 117 ticks behind
-[18:11:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[18:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7765ms or 155 ticks behind
-[18:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
-[18:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6397ms or 127 ticks behind
-[18:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7508ms or 150 ticks behind
-[18:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
-[18:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6502ms or 130 ticks behind
-[18:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7230ms or 144 ticks behind
-[18:14:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7015ms or 140 ticks behind
-[18:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7290ms or 145 ticks behind
-[18:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[18:17:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3498ms or 69 ticks behind
-[18:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
-[18:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[18:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5147ms or 102 ticks behind
-[18:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
-[18:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[18:19:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
-[18:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
-[18:19:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
-[18:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2608ms or 52 ticks behind
-[18:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[18:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
-[18:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
-[18:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
-[18:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
-[18:23:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4308ms or 86 ticks behind
-[18:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
-[18:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
-[18:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
-[18:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
-[18:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4097ms or 81 ticks behind
-[18:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
-[18:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
-[18:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6861ms or 137 ticks behind
-[18:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8282ms or 165 ticks behind
-[18:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6819ms or 136 ticks behind
-[18:29:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7493ms or 149 ticks behind
-[18:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7086ms or 141 ticks behind
-[18:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8209ms or 164 ticks behind
-[18:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
-[18:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
-[18:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6346ms or 126 ticks behind
-[18:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7027ms or 140 ticks behind
-[18:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6205ms or 124 ticks behind
-[18:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6106ms or 122 ticks behind
-[18:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6965ms or 139 ticks behind
-[18:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6299ms or 125 ticks behind
-[18:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6322ms or 126 ticks behind
-[18:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[18:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
-[18:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
-[18:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6345ms or 126 ticks behind
-[18:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7917ms or 158 ticks behind
-[18:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6577ms or 131 ticks behind
-[18:38:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
-[18:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7638ms or 152 ticks behind
-[18:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6269ms or 125 ticks behind
-[18:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3610ms or 72 ticks behind
-[18:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[18:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[18:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
-[18:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[18:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[18:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
-[18:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
-[18:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
-[18:44:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
-[18:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
-[18:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
-[18:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[18:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
-[18:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
-[18:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
-[18:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4092ms or 81 ticks behind
-[18:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3314ms or 66 ticks behind
-[18:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
-[18:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
-[18:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3619ms or 72 ticks behind
-[18:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3555ms or 71 ticks behind
-[18:51:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[18:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8203ms or 164 ticks behind
-[18:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7627ms or 152 ticks behind
-[18:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
-[18:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9386ms or 187 ticks behind
-[18:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6720ms or 134 ticks behind
-[18:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
-[18:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6835ms or 136 ticks behind
-[18:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6807ms or 136 ticks behind
-[18:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:57:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7017ms or 140 ticks behind
-[18:57:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6907ms or 138 ticks behind
-[18:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6729ms or 134 ticks behind
-[18:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
-[18:58:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7036ms or 140 ticks behind
-[18:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6570ms or 131 ticks behind
-[18:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7293ms or 145 ticks behind
-[18:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6762ms or 135 ticks behind
-[19:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9474ms or 189 ticks behind
-[19:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
-[19:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6818ms or 136 ticks behind
-[19:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
-[19:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7349ms or 146 ticks behind
-[19:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6458ms or 129 ticks behind
-[19:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3818ms or 76 ticks behind
-[19:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
-[19:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
-[19:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
-[19:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
-[19:07:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
-[19:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
-[19:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[19:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3601ms or 72 ticks behind
-[19:09:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
-[19:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[19:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
-[19:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[19:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
-[19:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:13:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
-[19:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[19:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:16:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6451ms or 129 ticks behind
-[19:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
-[19:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
-[19:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6510ms or 130 ticks behind
-[19:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5726ms or 114 ticks behind
-[19:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5896ms or 117 ticks behind
-[19:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
-[19:19:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5682ms or 113 ticks behind
-[19:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6537ms or 130 ticks behind
-[19:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6337ms or 126 ticks behind
-[19:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
-[19:22:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5602ms or 112 ticks behind
-[19:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7961ms or 159 ticks behind
-[19:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5397ms or 107 ticks behind
-[19:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5593ms or 111 ticks behind
-[19:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7005ms or 140 ticks behind
-[19:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
-[19:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5644ms or 112 ticks behind
-[19:27:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:27:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
-[19:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[19:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[19:28:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
-[19:28:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[19:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
-[19:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
-[19:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[19:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
-[19:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:33:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4064ms or 81 ticks behind
-[19:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[19:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2767ms or 55 ticks behind
-[19:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
-[19:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
-[19:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
-[19:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[19:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5976ms or 119 ticks behind
-[19:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7940ms or 158 ticks behind
-[19:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6246ms or 124 ticks behind
-[19:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7641ms or 152 ticks behind
-[19:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6272ms or 125 ticks behind
-[19:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5906ms or 118 ticks behind
-[19:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6019ms or 120 ticks behind
-[19:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6803ms or 136 ticks behind
-[19:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6065ms or 121 ticks behind
-[19:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6054ms or 121 ticks behind
-[19:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7163ms or 143 ticks behind
-[19:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6044ms or 120 ticks behind
-[19:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6224ms or 124 ticks behind
-[19:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6824ms or 136 ticks behind
-[19:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5965ms or 119 ticks behind
-[19:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
-[19:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7252ms or 145 ticks behind
-[19:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6229ms or 124 ticks behind
-[19:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5967ms or 119 ticks behind
-[19:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
-[19:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6359ms or 127 ticks behind
-[19:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6122ms or 122 ticks behind
-[19:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[19:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
-[19:52:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[19:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
-[19:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
-[19:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
-[19:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[19:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
-[19:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
-[19:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
-[19:58:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
-[19:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2547ms or 50 ticks behind
-[19:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
-[19:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
-[19:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2276ms or 45 ticks behind
-[20:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
-[20:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7093ms or 141 ticks behind
-[20:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6067ms or 121 ticks behind
-[20:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6304ms or 126 ticks behind
-[20:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8143ms or 162 ticks behind
-[20:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6128ms or 122 ticks behind
-[20:04:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6943ms or 138 ticks behind
-[20:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
-[20:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5982ms or 119 ticks behind
-[20:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[20:07:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
-[20:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6454ms or 129 ticks behind
-[20:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6118ms or 122 ticks behind
-[20:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6858ms or 137 ticks behind
-[20:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6358ms or 127 ticks behind
-[20:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
-[20:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7972ms or 159 ticks behind
-[20:09:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5986ms or 119 ticks behind
-[20:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7767ms or 155 ticks behind
-[20:11:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6873ms or 137 ticks behind
-[20:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6366ms or 127 ticks behind
-[20:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
-[20:13:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
-[20:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4271ms or 85 ticks behind
-[20:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
-[20:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
-[20:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
-[20:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
-[20:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[20:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
-[20:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
-[20:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
-[20:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2970ms or 59 ticks behind
-[20:18:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
-[20:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[20:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
-[20:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
-[20:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[20:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
-[20:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
-[20:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
-[20:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
-[20:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[20:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
-[20:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
-[20:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
-[20:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
-[20:26:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6256ms or 125 ticks behind
-[20:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6100ms or 122 ticks behind
-[20:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
-[20:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
-[20:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5901ms or 118 ticks behind
-[20:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5966ms or 119 ticks behind
-[20:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
-[20:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
-[20:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
-[20:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[20:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6817ms or 136 ticks behind
-[20:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6210ms or 124 ticks behind
-[20:32:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7427ms or 148 ticks behind
-[20:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6995ms or 139 ticks behind
-[20:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5708ms or 114 ticks behind
-[20:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5959ms or 119 ticks behind
-[20:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6632ms or 132 ticks behind
-[20:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6080ms or 121 ticks behind
-[20:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5968ms or 119 ticks behind
-[20:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
-[20:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[20:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2378ms or 47 ticks behind
-[20:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[20:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3614ms or 72 ticks behind
-[20:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[20:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
-[20:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
-[20:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
-[20:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:42:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[20:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
-[20:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[20:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4439ms or 88 ticks behind
-[20:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
-[20:44:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4673ms or 93 ticks behind
-[20:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
-[20:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
-[20:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
-[20:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
-[20:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8100ms or 162 ticks behind
-[20:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7761ms or 155 ticks behind
-[20:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7515ms or 150 ticks behind
-[20:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6194ms or 123 ticks behind
-[20:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7373ms or 147 ticks behind
-[20:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[20:52:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6579ms or 131 ticks behind
-[20:52:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6262ms or 125 ticks behind
-[20:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6180ms or 123 ticks behind
-[20:53:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6769ms or 135 ticks behind
-[20:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
-[20:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6057ms or 121 ticks behind
-[20:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
-[20:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
-[20:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6029ms or 120 ticks behind
-[20:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[20:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6445ms or 128 ticks behind
-[20:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6026ms or 120 ticks behind
-[20:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
-[20:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
-[20:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5835ms or 116 ticks behind
-[20:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5847ms or 116 ticks behind
-[20:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
-[20:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5755ms or 115 ticks behind
-[20:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5795ms or 115 ticks behind
-[21:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[21:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
-[21:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
-[21:02:48] [Server thread/INFO]: Leucoptera[/99.7.181.25:53844] logged in with entity id 44547 at (-245.9840668505627, 132.73572724052013, -267.443522489483)
-[21:02:48] [Server thread/INFO]: Leucoptera joined the game
-[21:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5736ms or 114 ticks behind
-[21:03:16] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[21:03:16] [Server thread/INFO]: Leucoptera left the game
-[21:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7857ms or 157 ticks behind
-[21:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
-[21:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2958ms or 59 ticks behind
-[21:04:10] [Server thread/INFO]: Leucoptera[/99.7.181.25:54006] logged in with entity id 44655 at (-244.6726817245182, 132.73572724052013, -269.4034513028039)
-[21:04:10] [Server thread/INFO]: Leucoptera joined the game
-[21:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6873ms or 137 ticks behind
-[21:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7299ms or 145 ticks behind
-[21:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7866ms or 157 ticks behind
-[21:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[21:07:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7649ms or 152 ticks behind
-[21:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7751ms or 155 ticks behind
-[21:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7401ms or 148 ticks behind
-[21:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8667ms or 173 ticks behind
-[21:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9936ms or 198 ticks behind
-[21:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7175ms or 143 ticks behind
-[21:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8431ms or 168 ticks behind
-[21:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
-[21:10:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5945ms or 118 ticks behind
-[21:11:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[21:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7082ms or 141 ticks behind
-[21:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6939ms or 138 ticks behind
-[21:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7342ms or 146 ticks behind
-[21:13:10] [Server thread/INFO]: Cognizar[/76.252.251.182:16246] logged in with entity id 45902 at (-260.9207772661766, 73.92543048573671, -266.5656158738129)
-[21:13:10] [Server thread/INFO]: Cognizar joined the game
-[21:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12385ms or 247 ticks behind
-[21:13:29] [Server thread/INFO]: Joshuaxw1[/24.96.149.33:55387] logged in with entity id 45931 at (-252.10209848106052, 15.0, -294.79816366389736)
-[21:13:29] [Server thread/INFO]: Joshuaxw1 joined the game
-[21:13:34] [Server thread/INFO]: <Cognizar> ayo josh whats up
-[21:13:44] [Server thread/INFO]: <Joshuaxw1> hi
-[21:13:48] [Server thread/INFO]: <Leucoptera> i cant get the clock to work for some reason
-[21:13:50] [Server thread/INFO]: <Cognizar> you guys know where jeremiah is?
-[21:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14943ms or 298 ticks behind
-[21:14:03] [Server thread/INFO]: <Leucoptera> i think jeremiah inferred we're doing later this evening
-[21:14:17] [Server thread/INFO]: <Cognizar> that wont work for me
-[21:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15430ms or 308 ticks behind
-[21:14:22] [Server thread/INFO]: <Leucoptera> also jerry can u fix the clock
-[21:14:25] [Server thread/INFO]: <Joshuaxw1> wow you guys have done a lot in a couple days
-[21:14:34] [Server thread/INFO]: <Leucoptera> i got a zombie blockage system working with only 1 piston
-[21:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15072ms or 301 ticks behind
-[21:14:59] [Server thread/INFO]: <Leucoptera> why is there clicking sound, is that supposed to happen
-[21:15:05] [Server thread/INFO]: <Cognizar> do you guys wanna do the dragon fight without jeremiah?
-[21:15:07] [Server thread/INFO]: <Leucoptera> i was without sound earlier today
-[21:15:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[21:15:10] [Server thread/INFO]: <Cognizar> and thats the chunk loader
-[21:15:12] [Server thread/INFO]: <Leucoptera> no lets have jermieah
-[21:15:16] [Server thread/INFO]: <Leucoptera> oh ok
-[21:15:20] [Server thread/INFO]: <Cognizar> yeah come here youll hear it
-[21:15:31] [Server thread/INFO]: <Leucoptera> alr it works
-[21:15:46] [Server thread/INFO]: <Leucoptera> y clock not worky
-[21:15:50] [Server thread/INFO]: <Cognizar> the glass block
-[21:15:54] [Server thread/INFO]: <Leucoptera> o
-[21:15:55] [Server thread/INFO]: <Cognizar> we need to move this 1 down and to the right
-[21:15:58] [Server thread/INFO]: <Leucoptera> ill mvoe it down
-[21:16:10] [Server thread/INFO]: <Cognizar> oh josh in case your wondering where we are
-[21:16:18] [Server thread/INFO]: <Cognizar> were flying around trying to get this stupid thing to work
-[21:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[21:16:28] [Server thread/INFO]: <Joshuaxw1> what thing
-[21:16:33] [Server thread/INFO]: <Cognizar> uh come outside
-[21:16:38] [Server thread/INFO]: <Leucoptera> and look up
-[21:16:40] [Server thread/INFO]: <Cognizar> how do I set someone else's gamemode
-[21:16:44] [Server thread/INFO]: <Leucoptera> walk into center of farm and look up
-[21:16:53] [Server thread/INFO]: <Joshuaxw1> what
-[21:16:57] [Server thread/INFO]: <Cognizar> yeah fly up here
-[21:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19133ms or 382 ticks behind
-[21:17:05] [Server thread/INFO]: <Joshuaxw1> oh
-[21:17:08] [Server thread/INFO]: <Joshuaxw1> is it an iron farm
-[21:17:10] [Server thread/INFO]: <Cognizar> yeah
-[21:17:14] [Server thread/INFO]: <Cognizar> but its not working properly
-[21:17:17] [Server thread/INFO]: <Joshuaxw1> why are you guys building it in creative though lol
-[21:17:21] [Server thread/INFO]: <Leucoptera> testing
-[21:17:24] [Server thread/INFO]: <Cognizar> because were debugging it
-[21:17:27] [Server thread/INFO]: <Joshuaxw1> oh
-[21:17:30] [Server thread/INFO]: <Leucoptera> then we'll tear it down
-[21:17:34] [Server thread/INFO]: <Leucoptera> and build legit
-[21:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23958ms or 479 ticks behind
-[21:17:45] [Server thread/INFO]: <Cognizar> dont wanna spend 4 hours + 20 falling deaths trying to figure this out
-[21:17:58] [Server thread/INFO]: <Cognizar> t
-[21:18:03] [Server thread/INFO]: <Cognizar> hey josh while were at it
-[21:18:04] [Server thread/INFO]: <Joshuaxw1> what's not working
-[21:18:06] [Server thread/INFO]: <Cognizar> give me ur armor
-[21:18:11] [Server thread/INFO]: <Cognizar> let me get the books and enchant it
-[21:18:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18281ms or 365 ticks behind
-[21:18:18] [Server thread/INFO]: <Cognizar> or come with me rather
-[21:18:24] [Server thread/INFO]: <Joshuaxw1> sure
-[21:18:44] [Server thread/INFO]: <Cognizar> gimme ur gear
-[21:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23058ms or 461 ticks behind
-[21:19:21] [Server thread/INFO]: <Cognizar> take the sword bow and arrow in that chest
-[21:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19813ms or 396 ticks behind
-[21:19:49] [Server thread/INFO]: <Joshuaxw1> dang
-[21:19:54] [Server thread/INFO]: <Joshuaxw1> do you guys have 4 of all of these
-[21:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17717ms or 354 ticks behind
-[21:19:58] [Server thread/INFO]: <Cognizar> yeah villagers are actually broken
-[21:20:01] [Server thread/INFO]: <Joshuaxw1> wow
-[21:20:02] [Server thread/INFO]: <Cognizar> take a look at this chest
-[21:20:12] [Server thread/INFO]: <Joshuaxw1> yeah i saw lol
-[21:20:17] [Server thread/INFO]: <Cognizar> from raids
-[21:20:44] [Server thread/INFO]: Joshuaxw1 has made the advancement [Isn't It Iron Pick]
-[21:21:19] [Server thread/INFO]: <Cognizar> bro pranav
-[21:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[21:21:23] [Server thread/INFO]: <Cognizar> comparators wrong direction
-[21:21:39] [Server thread/INFO]: <Leucoptera> ?
-[21:21:47] [Server thread/INFO]: <Leucoptera> wait i placed them other way
-[21:21:51] [Server thread/INFO]: <Cognizar> the clock wasnt working because the comparators were going the wrong way
-[21:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16048ms or 320 ticks behind
-[21:21:57] [Server thread/INFO]: <Leucoptera> no i didnt test it yet
-[21:22:11] [Server thread/INFO]: <Cognizar> KEKW
-[21:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15557ms or 311 ticks behind
-[21:22:23] [Server thread/INFO]: <Cognizar> this freezes the hoppers because redstone goes into them
-[21:22:48] [Server thread/INFO]: <Cognizar> everyone reduce your render distance to 2 or something
-[21:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16843ms or 336 ticks behind
-[21:23:11] [Server thread/INFO]: <Leucoptera> is 9 ok
-[21:23:13] [Server thread/INFO]: <Cognizar> yeah
-[21:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18334ms or 366 ticks behind
-[21:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18093ms or 361 ticks behind
-[21:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15069ms or 301 ticks behind
-[21:24:45] [Server thread/INFO]: <Cognizar> there we go
-[21:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15123ms or 302 ticks behind
-[21:25:06] [Server thread/INFO]: <Joshuaxw1> did mr powell assign ch 2 of gatsby
-[21:25:12] [Server thread/INFO]: <Leucoptera> said read it by mon
-[21:25:18] [Server thread/INFO]: <Joshuaxw1> ok
-[21:25:32] [Server thread/INFO]: <Cognizar> the iron production of this thing is no joke though
-[21:25:41] [Server thread/INFO]: <Cognizar> thats more than I can get in an hour of strip mining
-[21:25:58] [Server thread/INFO]: <Cognizar> good thing I traded with that wandering trader for slime balls
-[21:26:05] [Server thread/INFO]: <Cognizar> idk how people get slimeballs that easy
-[21:26:12] [Server thread/INFO]: <Cognizar> i can never find slime chunks
-[21:26:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[21:26:24] [Server thread/INFO]: <Leucoptera> it doesnt work lol jerry
-[21:26:32] [Server thread/INFO]: <Cognizar> what do you mean
-[21:26:35] [Server thread/INFO]: <Leucoptera> it doesnt work
-[21:26:42] [Server thread/INFO]: <Cognizar> what doesnt work
-[21:26:48] [Server thread/INFO]: <Leucoptera> the connection to the piston
-[21:26:50] [Server thread/INFO]: <Cognizar> it works certainly
-[21:26:51] [Server thread/INFO]: <Leucoptera> ill fix it dw
-[21:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18374ms or 367 ticks behind
-[21:26:59] [Server thread/INFO]: <Cognizar> tell me how that doesnt work
-[21:27:22] [Server thread/INFO]: <Leucoptera> the zombie piston doenst activate because the torch int hthe middle overrides the clock signal
-[21:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16025ms or 320 ticks behind
-[21:27:34] [Server thread/INFO]: <Cognizar> it doesnt do that bro
-[21:27:42] [Server thread/INFO]: <Cognizar> the clock signal shoots for a split second
-[21:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14153ms or 283 ticks behind
-[21:28:06] [Server thread/INFO]: <Leucoptera> now watch
-[21:28:09] [Server thread/INFO]: <Leucoptera> i fixed it
-[21:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18102ms or 362 ticks behind
-[21:28:37] [Server thread/INFO]: <Leucoptera> wait what
-[21:28:48] [Server thread/INFO]: <Cognizar> lmao thats why I had the redstone torch there
-[21:28:51] [Server thread/INFO]: <Cognizar> to invert the signal
-[21:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18321ms or 366 ticks behind
-[21:29:07] [Server thread/INFO]: <Leucoptera> you SEE
-[21:29:12] [Server thread/INFO]: <Cognizar> no you see
-[21:29:18] [Server thread/INFO]: <Leucoptera> ok watch
-[21:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15697ms or 313 ticks behind
-[21:29:37] [Server thread/INFO]: <Cognizar> hmm
-[21:29:39] [Server thread/INFO]: <Leucoptera> zombie doesnt move
-[21:29:45] [Server thread/INFO]: <Cognizar> heres how to fix this
-[21:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14056ms or 281 ticks behind
-[21:30:42] [Server thread/INFO]: <Cognizar> josh how much does this make you laugh
-[21:31:05] [Server thread/INFO]: <Leucoptera> actually wait
-[21:31:05] [Server thread/INFO]: <Joshuaxw1> can't we just copy a tutorial lol
-[21:31:19] [Server thread/WARN]: Joshuaxw1 moved too quickly! 0.0,-10.98408108579595,0.0
-[21:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[21:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23604ms or 472 ticks behind
-[21:32:05] [Server thread/INFO]: <Cognizar> FINALLY
-[21:32:08] [Server thread/INFO]: <Cognizar> oh the tutorial was wrong
-[21:32:16] [Server thread/INFO]: <Cognizar> without the clock it doesnt work
-[21:32:27] [Server thread/INFO]: <Joshuaxw1> oh
-[21:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16615ms or 332 ticks behind
-[21:32:29] [Server thread/INFO]: <Cognizar> its hard to see though because it works for 20 minutes then it stops working
-[21:32:34] [Server thread/INFO]: <Leucoptera> nope downt work
-[21:32:38] [Server thread/INFO]: <Leucoptera> it spazzes out
-[21:32:40] [Server thread/INFO]: <Cognizar> wait bro
-[21:32:53] [Server thread/INFO]: <Leucoptera> OK TELL ME HOW A STICKY PISTRON SEPARATES FROM IT SBLOCVK
-[21:32:59] [Server thread/INFO]: <Leucoptera> LMFAO IT NOT WORK
-[21:33:03] [Server thread/INFO]: <Cognizar> ultra mega lag
-[21:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26810ms or 536 ticks behind
-[21:33:15] [Server thread/INFO]: <Cognizar> wait this was an unintentional torch clock
-[21:33:15] [Server thread/INFO]: <Leucoptera> thats not suppsed rto happen righ there
-[21:33:26] [Server thread/INFO]: <Cognizar> bro how about we remove the double negatives
-[21:33:29] [Server thread/INFO]: <Leucoptera> ok hold on let me make a repeater signal one sec
-[21:33:32] [Server thread/INFO]: <Cognizar> that arise from 5 torches
-[21:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15040ms or 300 ticks behind
-[21:34:04] [Server thread/INFO]: <Cognizar> wait for it
-[21:34:06] [Server thread/INFO]: <Leucoptera> bro it needs to stop for like 10 seconds to let the villagers sleep, then remove
-[21:34:10] [Server thread/INFO]: <Leucoptera> cant be a split second
-[21:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15088ms or 301 ticks behind
-[21:34:29] [Server thread/INFO]: <Cognizar> IT DOES WORK THO
-[21:34:30] [Server thread/INFO]: <Leucoptera> yeah no thats not gonna work
-[21:34:32] [Server thread/INFO]: <Cognizar> HAHAHAH
-[21:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15057ms or 301 ticks behind
-[21:34:44] [Server thread/INFO]: <Leucoptera> let me do smth stop breaking it lol
-[21:34:55] [Server thread/INFO]: <Cognizar> SERVER LAG MADE IT WORK
-[21:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11353ms or 227 ticks behind
-[21:35:20] [Server thread/INFO]: <Cognizar> anyways what do we want to do with josh
-[21:35:36] [Server thread/INFO]: <Cognizar> wait hold on that might actually be 5head
-[21:35:51] [Server thread/INFO]: <Leucoptera> this is what ive been trying to do since 10 mins lol
-[21:36:08] [Server thread/INFO]: <Cognizar> dropper clock broke, going to the Nether to fix it
-[21:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:36:29] [Server thread/INFO]: <Joshuaxw1> this looks so scuffed
-[21:36:41] [Server thread/INFO]: <Cognizar> bro have you seen my chicken farm
-[21:36:49] [Server thread/INFO]: <Joshuaxw1> yeah lol
-[21:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39066ms or 781 ticks behind
-[21:37:25] [Server thread/INFO]: <Cognizar> im gonna upgrade servers
-[21:37:39] [Server thread/INFO]: <Cognizar> this lag isnt gonna fly
-[21:37:48] [Server thread/WARN]: Cognizar moved too quickly! 9.745359295062315,3.3750001341104507,1.0149695411566313
-[21:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35042ms or 700 ticks behind
-[21:38:26] [Server thread/INFO]: <Cognizar> bro those repeaters delay for max 0.4 secs
-[21:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15047ms or 300 ticks behind
-[21:38:52] [Server thread/INFO]: <Leucoptera> gimme a sec to observe
-[21:39:04] [Server thread/INFO]: <Leucoptera> i think thats long enough
-[21:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18364ms or 367 ticks behind
-[21:39:27] [Server thread/INFO]: <Cognizar> bro the lag is so intense rn
-[21:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18705ms or 374 ticks behind
-[21:39:47] [Server thread/INFO]: <Joshuaxw1> im gonna logoff for now
-[21:39:53] [Server thread/INFO]: <Joshuaxw1> tell me when you guys decide to do the end fight
-[21:39:55] [Server thread/INFO]: <Cognizar> aight see you josh
-[21:39:58] [Server thread/INFO]: Joshuaxw1 lost connection: Disconnected
-[21:39:58] [Server thread/INFO]: Joshuaxw1 left the game
-[21:39:58] [Server thread/INFO]: <Leucoptera> alr m
-[21:40:02] [Server thread/INFO]: <Cognizar> probably tomorrow afterschool?
-[21:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8817ms or 176 ticks behind
-[21:40:16] [Server thread/INFO]: <Leucoptera> will today not work
-[21:40:22] [Server thread/INFO]: <Cognizar> no
-[21:40:28] [Server thread/INFO]: <Cognizar> brother + rest get home at 5:40
-[21:40:38] [Server thread/INFO]: <Leucoptera> oh ok
-[21:41:06] [Server thread/INFO]: <Cognizar> bro this sleep machine is so scuffed
-[21:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[21:41:43] [Server thread/INFO]: <Leucoptera> alr that works
-[21:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12345ms or 246 ticks behind
-[21:42:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13395ms or 267 ticks behind
-[21:42:45] [Server thread/INFO]: <Leucoptera> lemme go down and try smth
-[21:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15374ms or 307 ticks behind
-[21:42:56] [Server thread/INFO]: <Cognizar> delay is too short between up and down
-[21:43:01] [Server thread/INFO]: <Cognizar> iron golems dont have time to spawn
-[21:43:01] [Server thread/INFO]: <Leucoptera> u sure?
-[21:43:09] [Server thread/INFO]: <Leucoptera> wait what?
-[21:43:10] [Server thread/INFO]: <Cognizar> yeah needs to be at least 30s of delay
-[21:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16369ms or 327 ticks behind
-[21:43:19] [Server thread/INFO]: <Leucoptera> oh no i was gonna make it go full yeah
-[21:43:28] [Server thread/INFO]: <Leucoptera> just go ahead and fill one hopper in yeah
-[21:43:46] [Server thread/INFO]: <Leucoptera> make it all 5 slots filled
-[21:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13431ms or 268 ticks behind
-[21:44:03] [Server thread/INFO]: <Cognizar> wait 5 slots
-[21:44:10] [Server thread/INFO]: <Cognizar> that's 10 x 64 seconds
-[21:44:12] [Server thread/INFO]: <Leucoptera> yeah
-[21:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13146ms or 262 ticks behind
-[21:44:23] [Server thread/INFO]: <Leucoptera> we actually need like longer than that right
-[21:44:25] [Server thread/INFO]: <Cognizar> how long is a day
-[21:44:32] [Server thread/INFO]: <Cognizar> 20 minutes right
-[21:44:34] [Server thread/INFO]: <Leucoptera> no thats 5x64 seconds
-[21:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10784ms or 215 ticks behind
-[21:44:43] [Server thread/INFO]: <Leucoptera> remember number put in = number of seconds
-[21:44:48] [Server thread/INFO]: <Cognizar> right
-[21:44:54] [Server thread/INFO]: <Cognizar> 2 items/sec
-[21:44:57] [Server thread/INFO]: <Cognizar> then
-[21:45:06] [Server thread/INFO]: <Cognizar> 20 minutes = 1200 seconds
-[21:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11148ms or 222 ticks behind
-[21:45:08] [Server thread/INFO]: <Leucoptera> night + day = about 17 mins
-[21:45:18] [Server thread/INFO]: <Cognizar> you know for sure?
-[21:45:23] [Server thread/INFO]: <Cognizar> theres an exact timing
-[21:45:29] [Server thread/INFO]: <Leucoptera> i looked it up
-[21:45:35] [Server thread/INFO]: <Cognizar> about or exactly?
-[21:45:36] [Server thread/INFO]: <Leucoptera> it said night is ab 7, day is 10
-[21:45:48] [Server thread/INFO]: <Leucoptera> idk do a search ofur won it mightve not been credible
-[21:45:53] [Server thread/INFO]: <Cognizar> hmm
-[21:45:55] [Server thread/INFO]: <Leucoptera> ur own*
-[21:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[21:46:56] [Server thread/INFO]: <Cognizar> nope its exactly 20 minutes
-[21:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12346ms or 246 ticks behind
-[21:47:04] [Server thread/INFO]: <Leucoptera> yeah i c now
-[21:47:21] [Server thread/INFO]: <Leucoptera> so this clock right here does 320 secs
-[21:47:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16228ms or 324 ticks behind
-[21:47:36] [Server thread/INFO]: <Cognizar> thats perfect
-[21:47:43] [Server thread/INFO]: <Cognizar> itll activate at least once during the night
-[21:47:47] [Server thread/INFO]: <Cognizar> means they can sleep
-[21:47:59] [Server thread/INFO]: <Leucoptera> yep
-[21:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16117ms or 322 ticks behind
-[21:48:11] [Server thread/INFO]: <Cognizar> lets leave this for a few hours and check production
-[21:48:28] [Server thread/INFO]: <Leucoptera> alr
-[21:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19936ms or 398 ticks behind
-[21:48:47] [Server thread/INFO]: <Cognizar> imma go for nowe
-[21:48:53] [Server thread/INFO]: <Leucoptera> alr
-[21:48:55] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[21:48:55] [Server thread/INFO]: Cognizar left the game
-[21:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16552ms or 331 ticks behind
-[21:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14935ms or 298 ticks behind
-[21:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9568ms or 191 ticks behind
-[21:51:09] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[21:51:09] [Server thread/INFO]: Leucoptera left the game
-[21:51:44] [Server thread/INFO]: Stopping server
-[21:51:44] [Server thread/INFO]: Saving players
-[21:51:44] [Server thread/INFO]: Saving worlds
-[21:51:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:51:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:51:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:51:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:16:03] [Server thread/INFO]: Cognizar[/76.252.251.182:51785] logged in with entity id 436910 at (-255.3422710902481, 14.0, -286.66955025600436)
+[00:16:03] [Server thread/INFO]: Cognizar joined the game
+[00:30:17] [Server thread/WARN]: Cognizar moved too quickly! -17.855744616025504,1.263794720720469,3.4166788604852343
+[00:33:43] [Server thread/INFO]: Cognizar has made the advancement [The Parrots and the Bats]
+[00:35:18] [Server thread/WARN]: Cognizar moved too quickly! -17.726696115319555,2.7810630366762297,2.6855439893609443
+[00:37:15] [Server thread/INFO]: Cognizar has made the advancement [Who is Cutting Onions?]
+[00:37:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4347, y=66, z=208} fx{x=-4347, y=65, z=209}
+[00:37:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4347, y=66, z=208} fx{x=-4347, y=65, z=209}
+[00:37:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-4347, y=66, z=208} fx{x=-4347, y=65, z=209}
+[00:40:17] [Server thread/WARN]: Cognizar moved too quickly! 16.65742987924841,6.9253304695001106,-1.4637007841814693
+[00:42:51] [Server thread/WARN]: Cognizar moved too quickly! 2152.2334376206236,7.3926045499513435,-78.33450564647853
+[00:42:51] [Server thread/WARN]: Entity aah['Cognizar'/436910, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[00:57:42] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[00:57:42] [Server thread/INFO]: Cognizar left the game
+[01:00:00] [Server thread/INFO]: Cognizar[/76.252.251.182:52161] logged in with entity id 459043 at (-265.99221921500856, 14.0, -286.83158803011213)
+[01:00:00] [Server thread/INFO]: Cognizar joined the game
+[01:03:00] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[01:03:00] [Server thread/INFO]: Cognizar left the game
+[02:18:43] [Server thread/INFO]: Leucoptera[/99.7.181.25:50236] logged in with entity id 464281 at (-262.6490531599336, 14.0, -286.876349364894)
+[02:18:43] [Server thread/INFO]: Leucoptera joined the game
+[03:03:40] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[03:03:40] [Server thread/INFO]: Leucoptera left the game
+[04:17:42] [Server thread/INFO]: Cognizar[/76.252.251.182:5755] logged in with entity id 474809 at (-268.5193799826275, 14.0, -285.82801113495043)
+[04:17:42] [Server thread/INFO]: Cognizar joined the game
+[04:30:17] [Server thread/WARN]: Cognizar moved too quickly! -8.64135695723121,0.0,5.438408997741419
+[04:35:17] [Server thread/WARN]: Cognizar moved too quickly! 13.573920550037462,-1.6584737832365022,11.612297606564766
+[04:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[04:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[04:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04:54:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04:57:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[04:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[05:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[05:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[05:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[05:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05:14:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[05:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[05:19:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[05:19:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[05:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[05:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[05:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[05:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9837ms or 196 ticks behind
+[05:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[05:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[05:30:29] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[05:30:29] [Server thread/INFO]: Cognizar left the game
+[05:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[05:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:05:57] [Server thread/INFO]: Cognizar[/76.252.251.182:1234] logged in with entity id 520008 at (-267.4472941926132, 14.0, -286.71557354869014)
+[13:05:57] [Server thread/INFO]: Cognizar joined the game
+[14:19:47] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[14:19:47] [Server thread/INFO]: Cognizar left the game
+[15:18:36] [Server thread/INFO]: Cognizar[/143.244.154.30:54553] logged in with entity id 534631 at (-276.39342387091, 131.0625, -323.0231055048885)
+[15:18:36] [Server thread/INFO]: Cognizar joined the game
+[15:41:48] [Server thread/WARN]: Cognizar moved too quickly! 5.463333439050075,-7.650949171817103,6.039678773089236
+[15:57:36] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[15:57:36] [Server thread/INFO]: Cognizar left the game
+[17:47:21] [Server thread/INFO]: Cognizar[/207.157.65.20:36871] logged in with entity id 551102 at (-256.05492488118455, 14.0, -287.7806948083716)
+[17:47:21] [Server thread/INFO]: Cognizar joined the game
+[17:47:51] [Server thread/INFO]: Cognizar lost connection: Timed out
+[17:47:51] [Server thread/INFO]: Cognizar left the game
+[17:49:22] [Server thread/INFO]: Cognizar[/167.172.16.54:65271] logged in with entity id 551288 at (-256.05492488118455, 14.0, -287.7806948083716)
+[17:49:22] [Server thread/INFO]: Cognizar joined the game
+[17:49:39] [Server thread/INFO]: Cognizar lost connection: Timed out
+[17:49:39] [Server thread/INFO]: Cognizar left the game
+[17:49:46] [Server thread/INFO]: Cognizar[/137.184.108.174:65274] logged in with entity id 551353 at (-262.1480456167402, 14.0, -287.3095787179734)
+[17:49:46] [Server thread/INFO]: Cognizar joined the game
+[17:51:11] [Server thread/WARN]: Cognizar moved too quickly! 17.996543194606687,1.9202506400135348,1.8192449001747377
+[17:58:01] [Server thread/WARN]: Cognizar moved too quickly! 0.0,-10.490796109028025,0.0
+[17:58:02] [Server thread/WARN]: Cognizar moved too quickly! 0.0,-11.213403912871314,0.0
+[18:01:17] [Server thread/WARN]: Cognizar moved too quickly! 0.0,-10.529193645291315,0.0
+[18:03:14] [Server thread/INFO]: Leucoptera[/99.7.181.25:53295] logged in with entity id 554393 at (-254.75358793787194, 15.0, -296.7184366331223)
+[18:03:14] [Server thread/INFO]: Leucoptera joined the game
+[18:03:22] [Server thread/INFO]: <Leucoptera> yo
+[18:04:48] [Server thread/INFO]: <Leucoptera> eyo
+[18:04:50] [Server thread/INFO]: <Cognizar> eya
+[18:04:59] [Server thread/INFO]: <Leucoptera> mob grinder kinda sucks idk why
+[18:04:59] [Server thread/INFO]: <Cognizar> check out this item sorter I added
+[18:05:09] [Server thread/INFO]: <Cognizar> to the grinder
+[18:05:11] [Server thread/INFO]: <Leucoptera> the video i used had him getting 10 levels every 5 minutes
+[18:05:20] [Server thread/INFO]: <Leucoptera> i only get 76 or so
+[18:05:22] [Server thread/INFO]: <Leucoptera> 6*
+[18:05:34] [Server thread/INFO]: <Leucoptera> how does that work??
+[18:05:35] [Server thread/INFO]: <Leucoptera> cool
+[18:05:46] [Server thread/INFO]: <Leucoptera> how does this arrow stay
+[18:05:55] [Server thread/INFO]: <Cognizar> redstone signal into hopper
+[18:05:59] [Server thread/INFO]: <Leucoptera> ahh
+[18:06:32] [Server thread/INFO]: <Leucoptera> i think ima add more levels to the mob grinder
+[18:06:37] [Server thread/INFO]: <Cognizar> no
+[18:06:38] [Server thread/INFO]: <Leucoptera> once its day
+[18:06:43] [Server thread/INFO]: <Leucoptera> ?
+[18:06:48] [Server thread/INFO]: <Leucoptera> we'l double the stuff
+[18:06:48] [Server thread/INFO]: <Cognizar> reason why is because we havent lit up everything in the chunj
+[18:06:51] [Server thread/INFO]: <Cognizar> even below
+[18:07:01] [Server thread/INFO]: <Leucoptera> no if you go all the way up there
+[18:07:06] [Server thread/INFO]: <Leucoptera> so the afkk spot
+[18:07:13] [Server thread/INFO]: <Leucoptera> the ground is out of ur 128 block radius
+[18:07:15] [Server thread/INFO]: <Cognizar> mobs are being allowed to spawn in the caves in the chunk and the ground
+[18:07:20] [Server thread/INFO]: <Cognizar> wait
+[18:07:26] [Server thread/INFO]: <Leucoptera> no but ur 128 above the ground
+[18:07:28] [Server thread/INFO]: <Cognizar> good point
+[18:07:50] [Server thread/INFO]: <Cognizar> tbh mob grinders have never worked for me
+[18:07:56] [Server thread/INFO]: <Cognizar> anyways the skulls are in place
+[18:08:03] [Server thread/INFO]: <Cognizar> we can fight the wither now
+[18:08:05] [Server thread/INFO]: <Leucoptera> y did we need wither farm again
+[18:08:14] [Server thread/INFO]: <Cognizar> for multiple beacons + reviving the dragon
+[18:08:23] [Server thread/INFO]: <Leucoptera> wh
+[18:08:25] [Server thread/INFO]: <Cognizar> also wither rose farm for creeper farm
+[18:08:27] [Server thread/INFO]: <Leucoptera> how is this not flowing
+[18:08:40] [Server thread/INFO]: <Leucoptera> OH THERES GLASS PANES
+[18:08:47] [Server thread/INFO]: <Cognizar> LMAO
+[18:09:01] [Server thread/INFO]: <Leucoptera> golem farm working smoothly?
+[18:09:06] [Server thread/INFO]: <Cognizar> try crafting a load
+[18:09:10] [Server thread/INFO]: <Cognizar> its satisfying af
+[18:09:19] [Server thread/INFO]: <Leucoptera> apparantly a piston cant push mnore than 12 blocks
+[18:09:25] [Server thread/INFO]: <Cognizar> yeah u didnt know that?
+[18:09:28] [Server thread/INFO]: <Leucoptera> i ahd to figure that out the hard way
+[18:09:33] [Server thread/INFO]: <Cognizar> oh rup
+[18:09:49] [Server thread/INFO]: <Leucoptera> should i make the delay smaller?
+[18:09:51] [Server thread/INFO]: <Cognizar> here let me take you on a flight to the nether fortress we'll be using too
+[18:09:54] [Server thread/INFO]: <Cognizar> no need
+[18:10:03] [Server thread/INFO]: <Cognizar> here craft the load first then come with me
+[18:10:08] [Server thread/INFO]: <Leucoptera> laod what
+[18:10:10] [Server thread/INFO]: <Leucoptera> what load
+[18:10:13] [Server thread/INFO]: <Cognizar> iron loaf
+[18:10:24] [Server thread/INFO]: <Cognizar> and difficulty easy so we won't need to spend 5 totems like I did last night
+[18:10:58] [Server thread/INFO]: <Cognizar> should I add the item sorter to this chest too?
+[18:11:06] [Server thread/INFO]: <Leucoptera> dik but dont pick those up lol
+[18:11:12] [Server thread/INFO]: <Leucoptera> idk8
+[18:11:14] [Server thread/INFO]: <Leucoptera> idk*
+[18:11:15] [Server thread/INFO]: <Cognizar> ok come with me now
+[18:11:23] [Server thread/INFO]: <Cognizar> ill wait for you by the downstairs portal
+[18:11:54] [Server thread/INFO]: <Leucoptera> wya
+[18:11:59] [Server thread/INFO]: <Cognizar> downstairs portal
+[18:12:06] [Server thread/INFO]: <Cognizar> bring elytra and rockets
+[18:12:21] [Server thread/INFO]: <Leucoptera> HT EIRON CHEST LMAOOOOOOO
+[18:12:49] [Server thread/INFO]: <Leucoptera> where go
+[18:12:49] [Server thread/INFO]: <Cognizar> let me get gold armor so I don't get piglin aggroed
+[18:13:53] [Server thread/INFO]: <Cognizar> we need to get these boots enchanted
+[18:13:57] [Server thread/INFO]: <Leucoptera> ye
+[18:14:17] [Server thread/INFO]: <Cognizar> follow me
+[18:14:25] [Server thread/WARN]: Cognizar moved too quickly! -12.997557662604951,-1.1003139836230034,-11.771950545675594
+[18:14:58] [Server thread/INFO]: <Leucoptera> lost u
+[18:15:21] [Server thread/INFO]: <Leucoptera> jsut tp me when there
+[18:15:37] [Server thread/INFO]: <Leucoptera> or tell me coord sill get there
+[18:15:42] [Server thread/INFO]: <Leucoptera> corrds i'll
+[18:15:48] [Server thread/INFO]: <Cognizar> im dead
+[18:16:00] [Server thread/INFO]: <Leucoptera> no ur not
+[18:16:02] [Server thread/INFO]: <Cognizar> omg
+[18:16:12] [Server thread/INFO]: <Cognizar> where are we?
+[18:16:15] [Server thread/INFO]: <Leucoptera> idk
+[18:16:19] [Server thread/INFO]: <Leucoptera> i got lost and stopped
+[18:16:29] [Server thread/INFO]: <Leucoptera> came from this way
+[18:16:49] [Server thread/INFO]: <Cognizar> ok come with me
+[18:17:13] [Server thread/INFO]: <Cognizar> we need to bring axes next time
+[18:17:37] [Server thread/INFO]: <Cognizar> ok come with me
+[18:18:13] [Server thread/INFO]: <Cognizar> see the fortress?
+[18:18:20] [Server thread/INFO]: <Cognizar> we need to increase the size of this landing pad
+[18:19:00] [Server thread/INFO]: <Cognizar> fire resistance might also be a great idea
+[18:19:52] [Server thread/INFO]: <Leucoptera> im low on blocks
+[18:19:59] [Server thread/INFO]: <Cognizar> thats enough for now
+[18:20:05] [Server thread/INFO]: <Cognizar> should be enough to land on
+[18:20:14] [Server thread/INFO]: <Cognizar> but you see the fortress?
+[18:20:17] [Server thread/INFO]: <Leucoptera> ye
+[18:20:21] [Server thread/INFO]: <Leucoptera> what abt it
+[18:20:27] [Server thread/INFO]: <Cognizar> here come with me again
+[18:20:47] [Server thread/INFO]: <Leucoptera> where u go
+[18:20:56] [Server thread/INFO]: <Leucoptera> you waent one way and turned back lmao
+[18:21:03] [Server thread/INFO]: <Cognizar> im on the bridge
+[18:21:07] [Server thread/INFO]: <Cognizar> you should see me now
+[18:21:28] [Server thread/INFO]: <Cognizar> we need less potent fireworks for short range
+[18:21:51] [Server thread/INFO]: <Cognizar> but this intersection right here
+[18:22:00] [Server thread/INFO]: <Cognizar> is where we will build it
+[18:22:22] [Server thread/INFO]: <Cognizar> all blaze spawners are broken
+[18:22:32] [Server thread/INFO]: <Leucoptera> kk
+[18:22:40] [Server thread/INFO]: <Cognizar> but you see it? do you remember how to get here?
+[18:22:47] [Server thread/INFO]: <Leucoptera> uh no just mark coords
+[18:22:52] [Server thread/INFO]: <Cognizar> wdym
+[18:22:55] [Server thread/INFO]: <Cognizar> like tp here?
+[18:22:58] [Server thread/INFO]: <Cognizar> thats kinda cheap
+[18:23:06] [Server thread/INFO]: <Leucoptera> no
+[18:23:14] [Server thread/INFO]: <Leucoptera> mark coords so u know where to fly to lmao
+[18:23:25] [Server thread/INFO]: <Cognizar> oops
+[18:23:28] [Server thread/INFO]: <Leucoptera> im dead
+[18:23:34] [Server thread/INFO]: <Leucoptera> bro i bowed the pigman
+[18:23:40] [Server thread/INFO]: <Cognizar> FLYT
+[18:23:41] [Server thread/INFO]: <Leucoptera> i am not leaving this box
+[18:23:44] [Server thread/INFO]: <Cognizar> FLY
+[18:23:51] [Server thread/WARN]: Cognizar moved too quickly! 8.598772557073119,2.14234514639125,-15.511893164949
+[18:23:52] [Server thread/INFO]: <Leucoptera> the've surrounded me lnao
+[18:24:06] [Server thread/WARN]: Cognizar moved too quickly! 17.333965645024364,-1.7370509459097718,-6.432152525507263
+[18:24:19] [Server thread/INFO]: <Leucoptera> tell me when ur at nether portal ill tp
+[18:24:24] [Server thread/INFO]: Cognizar lost connection: You logged in from another location
+[18:24:24] [Server thread/INFO]: Cognizar left the game
+[18:24:24] [Server thread/INFO]: Cognizar[/159.223.104.13:49238] logged in with entity id 559664 at (-181.87679066829827, 65.23639174552014, -199.59489469153684)
+[18:24:24] [Server thread/INFO]: Cognizar joined the game
+[18:24:38] [Server thread/INFO]: <Leucoptera> give me nether portal coords
+[18:24:45] [Server thread/WARN]: Cognizar moved too quickly! -12.507313838656483,-1.875762243723635,12.10917287374022
+[18:24:52] [Server thread/INFO]: <Leucoptera> bro i need to know where to fly to
+[18:25:03] [Server thread/INFO]: <Cognizar> -45 037
+[18:25:04] [Server thread/INFO]: <Leucoptera> give me coordds of nether portal then ill get there
+[18:25:06] [Server thread/INFO]: <Cognizar> -45 -37
+[18:25:07] [Server thread/INFO]: <Leucoptera> ty
+[18:25:13] [Server thread/INFO]: <Cognizar> THERES NO WAY TO FLY HERE DIRECTLY
+[18:25:18] [Server thread/INFO]: <Cognizar> YOU HAVE TO LOOP
+[18:27:29] [Server thread/INFO]: <Cognizar> where?
+[18:27:44] [Server thread/INFO]: <Cognizar> r u in flight?
+[18:28:22] [Server thread/INFO]: <Cognizar> im going home, I cant help you in flight
+[18:28:34] [Server thread/INFO]: <Cognizar> actually ill just tp you
+[18:28:35] [Server thread/INFO]: <Leucoptera> kk yeah im digging there im close im on the other side of the wall
+[18:28:44] [Server thread/INFO]: <Cognizar> there's more soulsand to go through
+[18:28:57] [Server thread/INFO]: <Leucoptera> kk
+[18:29:01] [Server thread/INFO]: <Cognizar> thats why I flew around
+[18:29:12] [Server thread/INFO]: <Leucoptera> i thought i flew enough around but got caught
+[18:29:13] [Server thread/INFO]: <Cognizar> if there was a direct way I would have found it already
+[18:29:31] [Server thread/INFO]: <Leucoptera> you should make like markers
+[18:29:36] [Server thread/INFO]: <Leucoptera> so we know where to turn
+[18:29:40] [Server thread/INFO]: Cognizar lost connection: Timed out
+[18:29:40] [Server thread/INFO]: Cognizar left the game
+[18:29:46] [Server thread/INFO]: Cognizar[/137.184.193.153:49273] logged in with entity id 561013 at (-386.21155225104303, 64.0, -303.04261833697126)
+[18:29:46] [Server thread/INFO]: Cognizar joined the game
+[18:29:58] [Server thread/INFO]: <Cognizar> thats part of the motivation of beacons
+[18:30:07] [Server thread/INFO]: <Leucoptera> thats expensive tho
+[18:30:10] [Server thread/INFO]: <Cognizar> easy insta markers that go all the way to the sky
+[18:30:13] [Server thread/INFO]: <Leucoptera> well ig we have iron galore
+[18:30:30] [Server thread/INFO]: <Cognizar> I need to make 1 charge fireworks
+[18:30:35] [Server thread/INFO]: <Leucoptera> i wanna go endermen grind for levels
+[18:30:38] [Server thread/INFO]: <Cognizar> These 3 charges are too strogn for short turns
+[18:30:43] [Server thread/INFO]: <Cognizar> why levels?
+[18:30:47] [Server thread/INFO]: <Cognizar> what do you need levels for?
+[18:30:47] [Server thread/INFO]: <Leucoptera> need to enchant
+[18:30:54] [Server thread/INFO]: <Leucoptera> im trying to convert to diamond
+[18:31:00] [Server thread/INFO]: <Cognizar> just go to the village
+[18:31:10] [Server thread/INFO]: <Leucoptera> i need to apply the books right
+[18:31:14] [Server thread/INFO]: <Leucoptera> anvil takes levels
+[18:31:15] [Server thread/INFO]: <Cognizar> I have 36 levels
+[18:31:17] [Server thread/INFO]: <Leucoptera> and a lot of them
+[18:31:22] [Server thread/INFO]: <Leucoptera> where do you get levels from
+[18:31:31] [Server thread/INFO]: <Cognizar> mob farming + afk fishing + end
+[18:31:44] [Server thread/INFO]: <Cognizar> do you wanna do a wither fight test run?
+[18:31:55] [Server thread/INFO]: <Leucoptera> whre the cookec himkin
+[18:31:58] [Server thread/INFO]: <Leucoptera> chimkin
+[18:32:11] [Server thread/INFO]: <Cognizar> someone threw it all away
+[18:32:16] [Server thread/INFO]: <Leucoptera> BRUH WTF
+[18:32:20] [Server thread/INFO]: <Cognizar> fish time ig
+[18:32:25] [Server thread/INFO]: <Leucoptera> NO I WANT CHIMKIN
+[18:32:29] [Server thread/INFO]: <Cognizar> salmon is as affective
+[18:32:39] [Server thread/INFO]: <Leucoptera> are you sure?
+[18:32:43] [Server thread/INFO]: <Cognizar> salmon is 3
+[18:32:45] [Server thread/INFO]: <Leucoptera> cause cod is garbage
+[18:32:46] [Server thread/INFO]: <Cognizar> cod is 2.5
+[18:32:50] [Server thread/INFO]: <Leucoptera> what about sturation
+[18:32:53] [Server thread/INFO]: <Cognizar> not sure
+[18:33:00] [Server thread/INFO]: <Leucoptera> chickn has good satu
+[18:33:01] [Server thread/INFO]: <Cognizar> bro if ur so concerned about that i can make sus stews
+[18:33:10] [Server thread/INFO]: <Leucoptera> they dont stack
+[18:33:14] [Server thread/INFO]: <Cognizar> true
+[18:33:18] [Server thread/INFO]: <Cognizar> or just make golden carrots
+[18:33:24] [Server thread/INFO]: <Leucoptera> no gold
+[18:33:26] [Server thread/INFO]: <Cognizar> ill make a gold farm soon
+[18:33:48] [Server thread/INFO]: <Cognizar> ill go nether mining and get a lot of magma blocks, which will enable me to make one of those
+[18:33:53] [Server thread/INFO]: <Leucoptera> did u throw it away
+[18:33:56] [Server thread/INFO]: <Cognizar> no
+[18:34:08] [Server thread/INFO]: <Cognizar> but ill make a gold farm soon
+[18:34:12] [Server thread/INFO]: <Leucoptera> idt any of us would throw it away lol
+[18:34:22] [Server thread/INFO]: <Cognizar> there was a chestful of stacks of it
+[18:34:24] [Server thread/INFO]: <Cognizar> idk where it went
+[18:34:29] [Server thread/INFO]: <Cognizar> check furnaces ig?
+[18:34:45] [Server thread/INFO]: <Leucoptera> is it in a shulk?
+[18:34:57] [Server thread/INFO]: <Cognizar> we only have made 1 shulk
+[18:35:15] [Server thread/INFO]: <Leucoptera> can u reactivate chicken farm
+[18:35:22] [Server thread/INFO]: <Cognizar> bro I destroyed it
+[18:35:25] [Server thread/INFO]: <Leucoptera> nvm
+[18:35:30] [Server thread/INFO]: <Cognizar> the chickens were lagging the server
+[18:35:36] [Server thread/INFO]: <Cognizar> same reason I killed the village
+[18:35:47] [Server thread/INFO]: <Leucoptera> bruh it was soo much cooked chicken
+[18:35:55] [Server thread/INFO]: <Leucoptera> wtv ima get steak
+[18:36:00] [Server thread/INFO]: <Cognizar> but anyway I'll make an afk gold farm soon
+[18:36:25] [Server thread/INFO]: <Cognizar> yields ~72 blocks/h which should be good enough
+[18:36:54] [Server thread/INFO]: <Leucoptera> y there a sheep farm
+[18:36:57] [Server thread/INFO]: <Cognizar> carpets
+[18:37:06] [Server thread/INFO]: <Cognizar> i needed a lot of carpets
+[18:38:08] [Server thread/INFO]: <Cognizar> smh were gonna have an everything farm at this rate
+[18:38:29] [Server thread/INFO]: <Leucoptera> lol
+[18:42:02] [Server thread/INFO]: <Cognizar> u good?
+[18:43:17] [Server thread/INFO]: <Cognizar> here how many books do you need
+[18:43:22] [Server thread/INFO]: <Cognizar> ill get them and ferry them over
+[18:43:37] [Server thread/INFO]: <Cognizar> how many
+[18:43:46] [Server thread/INFO]: <Leucoptera> books? for what?
+[18:43:49] [Server thread/INFO]: <Cognizar> OH THE CHICKEN IS HERE
+[18:44:00] [Server thread/INFO]: <Cognizar> books for armor
+[18:44:03] [Server thread/INFO]: <Cognizar> for diamond upgrad
+[18:44:10] [Server thread/INFO]: <Leucoptera> oh i need uh
+[18:44:23] [Server thread/INFO]: <Leucoptera> prot unbreak mend
+[18:44:28] [Server thread/INFO]: <Cognizar> times how many
+[18:44:31] [Server thread/INFO]: <Leucoptera> 2
+[18:44:37] [Server thread/INFO]: <Cognizar> got it ill bring them over
+[18:44:44] [Server thread/INFO]: <Cognizar> do you already have the gear crafted?
+[18:44:58] [Server thread/INFO]: <Cognizar> or do I need to make it?
+[18:45:03] [Server thread/INFO]: <Leucoptera> legs are existent but the are curse of smth
+[18:45:15] [Server thread/INFO]: <Leucoptera> boots are also existent, they have nothing on them
+[18:45:15] [Server thread/INFO]: <Cognizar> ill check and if its binding ill make new ones
+[18:45:17] [Server thread/INFO]: <Cognizar> wait
+[18:45:23] [Server thread/INFO]: <Cognizar> binding legs doesnt matter does it?
+[18:45:29] [Server thread/INFO]: <Leucoptera> yeah vanishing is bad
+[18:45:53] [Server thread/INFO]: <Cognizar> binding legs but fire prot
+[18:46:03] [Server thread/INFO]: <Leucoptera> grindstone it
+[18:46:04] [Server thread/INFO]: <Cognizar> im gonna grindstone it
+[18:46:06] [Server thread/INFO]: <Leucoptera> theres a grindsotne
+[18:46:23] [Server thread/INFO]: <Cognizar> the binding should be fine
+[18:47:15] [Server thread/WARN]: Cognizar moved wrongly!
+[18:49:14] [Server thread/INFO]: <Cognizar> legs donw
+[18:49:18] [Server thread/INFO]: <Leucoptera> tyty
+[18:49:24] [Server thread/INFO]: <Cognizar> do you have boots?
+[18:49:50] [Server thread/INFO]: <Leucoptera> tyty
+[18:49:55] [Server thread/INFO]: <Cognizar> do you have chest?
+[18:49:58] [Server thread/INFO]: <Leucoptera> yeye
+[18:50:04] [Server thread/INFO]: <Cognizar> ok were finished then
+[18:50:37] [Server thread/INFO]: <Cognizar> ok imma go for block switch
+[18:50:39] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[18:50:39] [Server thread/INFO]: Cognizar left the game
+[19:01:22] [Server thread/INFO]: Cognizar[/104.131.119.25:49648] logged in with entity id 570012 at (-265.8746654429942, 14.0, -288.1162226052242)
+[19:01:22] [Server thread/INFO]: Cognizar joined the game
+[19:01:30] [Server thread/INFO]: <Leucoptera> what does block switch mean
+[19:01:40] [Server thread/INFO]: <Cognizar> 3rd to 4th block
+[19:01:47] [Server thread/INFO]: <Leucoptera> oh right ur in school
+[19:02:01] [Server thread/INFO]: <Leucoptera> rip bozo
+[19:02:03] [Server thread/INFO]: <Cognizar> anyway what are we up to now
+[19:02:10] [Server thread/INFO]: <Leucoptera> sleep im expanding mob grinder
+[19:02:28] [Server thread/INFO]: <Cognizar> sleeping
+[19:02:34] [Server thread/INFO]: <Leucoptera> coming
+[19:03:13] [Server thread/INFO]: <Leucoptera> oh yeah i got that disc from teh grinder
+[19:03:18] [Server thread/INFO]: <Leucoptera> nice music
+[19:03:30] [Server thread/INFO]: <Cognizar> imo cat is better but its not bad
+[19:03:45] [Server thread/INFO]: <Cognizar> im gonna start farming obsidian
+[19:03:50] [Server thread/INFO]: <Leucoptera> y lol
+[19:04:09] [Server thread/INFO]: <Cognizar> we need about a 22x20x7 room of obsidian so that the wither doesn't nuke everything
+[19:04:19] [Server thread/INFO]: <Leucoptera> ah
+[19:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[19:04:26] [Server thread/INFO]: <Cognizar> ive fought the wither before and stone isn't good enough
+[19:04:41] [Server thread/INFO]: <Leucoptera> how to make a shulker box
+[19:04:48] [Server thread/INFO]: <Cognizar> shell chest shell
+[19:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[19:04:52] [Server thread/INFO]: <Leucoptera> kk
+[19:04:53] [Server thread/INFO]: <Cognizar> ok imma go do an edpuzzle brb
+[19:04:55] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[19:04:55] [Server thread/INFO]: Cognizar left the game
+[19:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[19:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13007ms or 260 ticks behind
+[19:09:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19:12:12] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[19:12:12] [Server thread/INFO]: Leucoptera left the game
+[19:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[19:26:46] [Server thread/INFO]: Leucoptera[/99.7.181.25:60176] logged in with entity id 573054 at (-273.94311365530166, 159.0, -325.86300442960186)
+[19:26:47] [Server thread/INFO]: Leucoptera joined the game
+[19:27:55] [Server thread/INFO]: Cognizar[/167.172.16.54:49959] logged in with entity id 573273 at (-254.69999998807907, 15.0, -301.88957890213084)
+[19:27:55] [Server thread/INFO]: Cognizar joined the game
+[19:27:59] [Server thread/INFO]: <Leucoptera> ey
+[19:28:24] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[19:28:24] [Server thread/INFO]: Cognizar left the game
+[19:29:28] [Server thread/INFO]: Cognizar[/167.172.16.54:49971] logged in with entity id 573584 at (-254.69999998807907, 15.0, -301.88957890213084)
+[19:29:28] [Server thread/INFO]: Cognizar joined the game
+[19:29:50] [Server thread/INFO]: <Cognizar> t
+[19:29:54] [Server thread/INFO]: <Leucoptera> u
+[19:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:30:41] [Server thread/INFO]: <Cognizar> fkin berries
+[19:30:46] [Server thread/INFO]: <Cognizar> i keep forgetting about that
+[19:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8697ms or 173 ticks behind
+[19:32:58] [Server thread/INFO]: <Leucoptera> lol yeah those are annoying
+[19:33:00] [Server thread/INFO]: <Leucoptera> and so loud
+[19:33:14] [Server thread/INFO]: Villager bfj['Villager'/329, l='ServerLevel[world]', x=-348.41, y=46.92, z=-471.40] died, message: 'Villager was slain by Zombie'
+[19:33:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6559ms or 131 ticks behind
+[19:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[19:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7817ms or 156 ticks behind
+[19:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
+[19:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7689ms or 153 ticks behind
+[19:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7879ms or 157 ticks behind
+[19:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6577ms or 131 ticks behind
+[19:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7110ms or 142 ticks behind
+[19:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[19:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[19:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
+[19:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[19:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6764ms or 135 ticks behind
+[19:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[19:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:43:34] [Server thread/INFO]: <Cognizar> istg im so close to doing the same with this obsidian
+[19:43:46] [Server thread/INFO]: <Leucoptera> no i accidentally mad eisngs
+[19:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[19:43:55] [Server thread/INFO]: <Leucoptera> i thrw signs in lava and gave myslef the wood back
+[19:44:02] [Server thread/INFO]: <Cognizar> ok
+[19:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:44:25] [Server thread/INFO]: <Cognizar> im gonna add this obsidian to the sky platform
+[19:44:30] [Server thread/INFO]: <Leucoptera> y??
+[19:44:40] [Server thread/INFO]: <Cognizar> hollowing out another room is annoying
+[19:44:52] [Server thread/INFO]: <Leucoptera> oh liek that
+[19:44:53] [Server thread/INFO]: <Leucoptera> sure
+[19:45:00] [Server thread/INFO]: <Cognizar> for the wither fight
+[19:45:16] [Server thread/INFO]: <Cognizar> may even increase size
+[19:45:39] [Server thread/INFO]: <Leucoptera> can we just go far away and fight it
+[19:45:51] [Server thread/INFO]: <Cognizar> no because then itll just fly and that gets annoying
+[19:46:03] [Server thread/INFO]: <Cognizar> you have to contain it
+[19:46:17] [Server thread/INFO]: <Cognizar> alternatively, we can do this in the end
+[19:46:23] [Server thread/INFO]: <Leucoptera> once it agtgros onto you it doesn't un-agro tho
+[19:46:34] [Server thread/INFO]: <Cognizar> but it flies and as I said that gets irritating
+[19:46:39] [Server thread/INFO]: <Leucoptera> bow
+[19:46:40] [Server thread/INFO]: <Cognizar> you want to keep it somewhat boxed in
+[19:46:42] [Server thread/INFO]: <Leucoptera> our bows are insane
+[19:46:47] [Server thread/INFO]: <Cognizar> look
+[19:46:50] [Server thread/INFO]: <Cognizar> we have 5 skulls
+[19:46:57] [Server thread/INFO]: <Cognizar> we have enough to just get another one later
+[19:47:02] [Server thread/INFO]: <Cognizar> lets try fighting it ourselves
+[19:47:06] [Server thread/INFO]: <Cognizar> now
+[19:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[19:47:17] [Server thread/INFO]: <Leucoptera> uh ok lemme wrap up here then
+[19:47:29] [Server thread/INFO]: <Cognizar> we fly to the end and hollow out a room
+[19:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9252ms or 185 ticks behind
+[19:47:38] [Server thread/INFO]: <Cognizar> then set it off and hide behind obsidian
+[19:47:46] [Server thread/INFO]: <Cognizar> so that the blast doesn't merc us
+[19:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4987ms or 99 ticks behind
+[19:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7332ms or 146 ticks behind
+[19:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[19:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3632ms or 72 ticks behind
+[19:48:56] [Server thread/INFO]: <Cognizar> dont use damage or poison arrows because that heals the wither
+[19:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[19:49:27] [Server thread/INFO]: <Leucoptera> kk
+[19:49:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
+[19:49:38] [Server thread/INFO]: <Leucoptera> ima spawn in wood then burn some later
+[19:49:47] [Server thread/INFO]: <Leucoptera> cause i dont want to come all the way down and back up
+[19:49:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
+[19:49:55] [Server thread/INFO]: <Cognizar> pack yourself a strength, there is plenty of regen at endbase
+[19:50:06] [Server thread/INFO]: <Cognizar> hmm actually
+[19:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4310ms or 86 ticks behind
+[19:50:12] [Server thread/INFO]: <Cognizar> hmm
+[19:50:23] [Server thread/INFO]: <Cognizar> end fight is appealing but I don't want to be afraid of looking everywhere
+[19:50:31] [Server thread/INFO]: <Leucoptera> just
+[19:50:32] [Server thread/INFO]: <Cognizar> and I don't want to accidentally get thrown out of the world
+[19:50:37] [Server thread/INFO]: <Leucoptera> lets just foo 300 blocks away from here
+[19:50:39] [Server thread/INFO]: <Leucoptera> amnd fight it
+[19:50:39] [Server thread/INFO]: <Cognizar> the end island is thin
+[19:50:51] [Server thread/INFO]: <Cognizar> sure lets se how we do without containment
+[19:51:03] [Server thread/INFO]: <Cognizar> lets go for a plains biome or something though its annoying fighting it in a wooded area
+[19:51:12] [Server thread/INFO]: <Leucoptera> kk
+[19:51:22] [Server thread/INFO]: <Cognizar> endbase has all the potions though
+[19:51:35] [Server thread/INFO]: <Cognizar> here lets just go to end
+[19:51:38] [Server thread/INFO]: <Cognizar> ill just dig deep
+[19:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19:52:35] [Server thread/INFO]: <Cognizar> r u about read
+[19:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5836ms or 116 ticks behind
+[19:52:48] [Server thread/INFO]: <Leucoptera> roofing the grtinder
+[19:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[19:52:57] [Server thread/INFO]: <Cognizar> meet me in endbase when done
+[19:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[19:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8627ms or 172 ticks behind
+[19:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[19:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[19:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7476ms or 149 ticks behind
+[19:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[19:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6635ms or 132 ticks behind
+[19:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
+[19:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7026ms or 140 ticks behind
+[19:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[19:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[19:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[19:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6254ms or 125 ticks behind
+[19:59:19] [Server thread/INFO]: <Cognizar> im ready
+[19:59:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5854ms or 117 ticks behind
+[19:59:38] [Server thread/INFO]: <Leucoptera> does endstone expolde
+[19:59:45] [Server thread/INFO]: <Cognizar> not very well
+[19:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7814ms or 156 ticks behind
+[19:59:55] [Server thread/INFO]: <Cognizar> this room is so we dont die when it spawn
+[19:59:56] [Server thread/INFO]: <Leucoptera> should i make this one more higher
+[20:00:00] [Server thread/INFO]: <Cognizar> nah
+[20:00:05] [Server thread/INFO]: <Cognizar> acutally
+[20:00:06] [Server thread/INFO]: <Cognizar> sure
+[20:00:17] [Server thread/INFO]: <Cognizar> but we need a blast wall
+[20:00:23] [Server thread/INFO]: <Cognizar> weve got that
+[20:00:52] [Server thread/INFO]: <Leucoptera> put obs right here
+[20:00:54] [Server thread/INFO]: <Leucoptera> kk
+[20:00:56] [Server thread/INFO]: <Cognizar> soon
+[20:01:00] [Server thread/INFO]: <Leucoptera> soon what
+[20:01:03] [Server thread/INFO]: <Cognizar> okay
+[20:01:05] [Server thread/INFO]: <Cognizar> wait
+[20:01:08] [Server thread/INFO]: <Cognizar> lets get potions
+[20:01:28] [Server thread/INFO]: <Cognizar> also take off elytra
+[20:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:02:10] [Server thread/INFO]: <Leucoptera> 5 insta, 1 regen
+[20:02:19] [Server thread/INFO]: <Cognizar> 5 insta, 2 regen
+[20:02:20] [Server thread/INFO]: <Leucoptera> that good?
+[20:02:22] [Server thread/INFO]: <Cognizar> for me
+[20:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[20:02:39] [Server thread/INFO]: <Leucoptera> lez go
+[20:02:40] [Server thread/INFO]: <Cognizar> take a strenght'
+[20:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6412ms or 128 ticks behind
+[20:02:48] [Server thread/INFO]: <Leucoptera> are none
+[20:02:49] [Server thread/INFO]: <Cognizar> no I threw one for you
+[20:02:57] [Server thread/INFO]: <Cognizar> im gonna get an extra from ender chest
+[20:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:03:13] [Server thread/INFO]: <Cognizar> ok ready
+[20:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[20:03:48] [Server thread/INFO]: <Cognizar> you wanna do some of the honors?
+[20:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7382ms or 147 ticks behind
+[20:04:16] [Server thread/INFO]: <Leucoptera> LMAO
+[20:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[20:04:30] [Server thread/INFO]: Leucoptera has made the advancement [Spooky Scary Skeleton]
+[20:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[20:04:37] [Server thread/INFO]: Leucoptera has made the advancement [Withering Heights]
+[20:04:37] [Server thread/INFO]: Cognizar has made the advancement [Withering Heights]
+[20:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[20:04:53] [Server thread/INFO]: <Leucoptera> NO GET BACK
+[20:05:32] [Server thread/INFO]: <Cognizar> I did not take 1 damage
+[20:05:40] [Server thread/INFO]: <Leucoptera> one hit from ur sword did more damage than the wither did to me
+[20:05:48] [Server thread/INFO]: <Leucoptera> LMFAO
+[20:05:50] [Server thread/INFO]: <Cognizar> do you have the star
+[20:05:55] [Server thread/INFO]: <Leucoptera> yesh
+[20:06:01] [Server thread/INFO]: <Cognizar> thats so retarded
+[20:06:07] [Server thread/INFO]: <Cognizar> when I fought it years ago it was so much harder
+[20:06:09] [Server thread/INFO]: <Leucoptera> we dont need no obs
+[20:06:19] [Server thread/INFO]: <Cognizar> uhhh the room is mighty damaged lmao
+[20:06:26] [Server thread/INFO]: <Leucoptera> we do it in open
+[20:06:27] [Server thread/INFO]: <Cognizar> dude this gear is so broken
+[20:06:32] [Server thread/INFO]: <Cognizar> no open is so annoying
+[20:06:41] [Server thread/INFO]: <Leucoptera> bro bows
+[20:06:42] [Server thread/INFO]: <Cognizar> i say that from experience
+[20:06:45] [Server thread/INFO]: <Cognizar> no like
+[20:06:51] [Server thread/INFO]: <Cognizar> it flies around killing everything
+[20:06:51] [Server thread/INFO]: <Leucoptera> did you have such a stacked bow before?
+[20:06:59] [Server thread/INFO]: <Cognizar> well no
+[20:07:04] [Server thread/INFO]: <Cognizar> but it's annoying to hit
+[20:07:08] [Server thread/INFO]: <Leucoptera> plus ur suposed to make it aggro onto you
+[20:07:09] [Server thread/INFO]: <Cognizar> iirc it was about as bad as a vex
+[20:07:12] [Server thread/INFO]: <Leucoptera> you probably ran far away
+[20:07:20] [Server thread/INFO]: <Cognizar> no I died instantly LMAO
+[20:07:27] [Server thread/INFO]: <Leucoptera> oh wat lmao
+[20:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:07:32] [Server thread/INFO]: <Cognizar> isnt it supposed to give you wither?
+[20:07:40] [Server thread/INFO]: <Leucoptera> idk i didnt get the effect
+[20:07:42] [Server thread/INFO]: <Cognizar> like isnt that the point of the name?
+[20:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20:07:53] [Server thread/INFO]: <Cognizar> like I almost died to wither multiple times when I fought it years ago
+[20:07:55] [Server thread/INFO]: <Leucoptera> lol idk
+[20:08:01] [Server thread/INFO]: <Cognizar> lets do this on hard
+[20:08:05] [Server thread/INFO]: <Leucoptera> oh right
+[20:08:06] [Server thread/INFO]: <Cognizar> im gonna spawn stuff in
+[20:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[20:08:25] [Server thread/INFO]: <Cognizar> here you do the honors this time
+[20:09:00] [Server thread/INFO]: <Cognizar> LOLOL
+[20:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[20:10:15] [Server thread/INFO]: <Leucoptera> did not use a single pot
+[20:10:27] [Server thread/INFO]: <Leucoptera> prolly bcz it never aggroed me
+[20:10:34] [Server thread/INFO]: <Cognizar> bro I almost died
+[20:10:37] [Server thread/INFO]: <Leucoptera> oh
+[20:10:44] [Server thread/INFO]: <Leucoptera> yeah you should ran over
+[20:10:44] [Server thread/INFO]: <Cognizar> when does this end?
+[20:10:49] [Server thread/INFO]: <Leucoptera> what
+[20:10:56] [Server thread/INFO]: <Cognizar> wither got me down to 2
+[20:11:06] [Server thread/INFO]: <Cognizar> and the wither kept going for a solid minute after
+[20:11:08] [Server thread/INFO]: <Leucoptera> you mean the mob or the effect
+[20:11:15] [Server thread/INFO]: <Cognizar> the effect
+[20:11:18] [Server thread/INFO]: <Cognizar> bro this is a joke
+[20:11:21] [Server thread/INFO]: <Leucoptera> what dfood do u have
+[20:11:24] [Server thread/INFO]: <Cognizar> steak
+[20:11:27] [Server thread/INFO]: <Leucoptera> ok
+[20:11:34] [Server thread/INFO]: <Leucoptera> ig just instas
+[20:11:35] [Server thread/INFO]: <Cognizar> anyways this fight was actually a joke
+[20:11:40] [Server thread/INFO]: <Leucoptera> LMA yeah
+[20:11:49] [Server thread/INFO]: <Leucoptera> if we had 4, then wither gonna go down in 20s
+[20:12:01] [Server thread/INFO]: <Cognizar> like with the gear we have its literally impossible to die unless we throw ourselves into the void
+[20:12:02] [Server thread/INFO]: <Leucoptera> u got the star?w
+[20:12:06] [Server thread/INFO]: <Cognizar> yeah
+[20:12:12] [Server thread/INFO]: <Cognizar> lets go make a beacon
+[20:12:25] [Server thread/INFO]: <Cognizar> lets go calculate the radius and where to put it first though
+[20:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:12:33] [Server thread/INFO]: <Leucoptera> what is the radius generallyw
+[20:12:35] [Server thread/INFO]: <Cognizar> 50 blocks
+[20:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
+[20:12:58] [Server thread/INFO]: <Cognizar> wait
+[20:13:02] [Server thread/INFO]: <Cognizar> lets record coords
+[20:13:07] [Server thread/INFO]: <Cognizar> you go to top right of farm
+[20:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6135ms or 122 ticks behind
+[20:13:11] [Server thread/INFO]: <Leucoptera> the star is behind u
+[20:13:12] [Server thread/INFO]: <Cognizar> i stay in bottom left of base
+[20:13:23] [Server thread/INFO]: <Cognizar> lets see if we can get everything
+[20:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[20:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[20:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4694ms or 93 ticks behind
+[20:14:15] [Server thread/INFO]: <Cognizar> hey hold this
+[20:14:27] [Server thread/INFO]: <Cognizar> -251 -288
+[20:14:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
+[20:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:15:11] [Server thread/INFO]: <Cognizar> -206 -239
+[20:15:19] [Server thread/INFO]: <Leucoptera> yup that fits
+[20:15:22] [Server thread/INFO]: <Cognizar> whats the midpoint of that
+[20:15:33] [Server thread/INFO]: <Leucoptera> so if you can fit the mob grinder in
+[20:15:36] [Server thread/INFO]: <Leucoptera> see*
+[20:15:52] [Server thread/INFO]: <Cognizar> can we?
+[20:15:53] [Server thread/INFO]: <Leucoptera> -276 -375
+[20:16:04] [Server thread/INFO]: <Cognizar> hold on let me get out my ti84
+[20:16:09] [Server thread/INFO]: <Leucoptera> you cant fit that oof
+[20:16:24] [Server thread/INFO]: <Cognizar> imo fitting this in is more important than the pumpkin farm
+[20:16:25] [Server thread/INFO]: <Leucoptera> what effects is it food for
+[20:16:40] [Server thread/INFO]: <Cognizar> i think with these we get regeneration and swiftness first
+[20:16:42] [Server thread/INFO]: <Leucoptera> yeah im actually planning on makeing hte farm automatic
+[20:16:49] [Server thread/INFO]: <Cognizar> lets see
+[20:16:59] [Server thread/INFO]: <Cognizar> lets go 50 blocks out from here
+[20:17:11] [Server thread/INFO]: <Leucoptera> no ur too far
+[20:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20:17:18] [Server thread/INFO]: <Cognizar> no I know
+[20:17:35] [Server thread/INFO]: <Cognizar> -245 -288 work?
+[20:17:40] [Server thread/INFO]: <Cognizar> for beacon location?
+[20:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9767ms or 195 ticks behind
+[20:17:46] [Server thread/INFO]: <Leucoptera> hold on
+[20:17:54] [Server thread/INFO]: <Leucoptera> is it 50 blocks on either side?
+[20:17:59] [Server thread/INFO]: <Leucoptera> or 25?
+[20:18:02] [Server thread/INFO]: <Cognizar> 50 block radius
+[20:18:06] [Server thread/INFO]: <Leucoptera> which means...
+[20:18:07] [Server thread/INFO]: <Cognizar> so on either side
+[20:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10545ms or 210 ticks behind
+[20:18:29] [Server thread/INFO]: <Leucoptera> yeah that location works
+[20:18:34] [Server thread/INFO]: <Cognizar> wait it fits?
+[20:18:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:18:46] [Server thread/INFO]: <Cognizar> hold on
+[20:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5787ms or 115 ticks behind
+[20:19:08] [Server thread/INFO]: <Cognizar> r u sure that works?
+[20:19:13] [Server thread/INFO]: <Cognizar> let me get out desmos
+[20:19:17] [Server thread/INFO]: <Leucoptera> what
+[20:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3778ms or 75 ticks behind
+[20:19:23] [Server thread/INFO]: <Leucoptera> yeah mob grinder fits in the radius
+[20:19:33] [Server thread/INFO]: <Cognizar> at the location I specified?
+[20:19:37] [Server thread/INFO]: <Leucoptera> yeah
+[20:19:56] [Server thread/INFO]: <Cognizar> ok
+[20:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:20:01] [Server thread/INFO]: <Cognizar> lets get to work
+[20:20:33] [Server thread/INFO]: <Leucoptera> omfg
+[20:20:35] [Server thread/INFO]: <Leucoptera> omfg
+[20:20:38] [Server thread/INFO]: <Leucoptera> omfffffg
+[20:20:38] [Server thread/INFO]: <Cognizar> what
+[20:20:45] [Server thread/INFO]: <Leucoptera> WHHHHEEEEEEEEEEEEEEEEEEEEEEEEEEWWWWWWWW
+[20:20:48] [Server thread/INFO]: <Cognizar> what
+[20:20:54] [Server thread/INFO]: <Leucoptera> i jumped off thinking i had my elytra on
+[20:21:00] [Server thread/INFO]: <Leucoptera> survived with half a heart
+[20:21:12] [Server thread/INFO]: <Cognizar> well get down here
+[20:21:19] [Server thread/INFO]: <Cognizar> were making the platform
+[20:21:40] [Server thread/INFO]: <Cognizar> ill make the 9x9 layer
+[20:21:49] [Server thread/INFO]: <Cognizar> oops
+[20:21:50] [Server thread/INFO]: <Leucoptera> wait ids it also 50 blocks up
+[20:21:54] [Server thread/INFO]: <Leucoptera> or infinite blocks up
+[20:21:56] [Server thread/INFO]: <Cognizar> no its not
+[20:21:57] [Server thread/INFO]: <Cognizar> infinite
+[20:22:01] [Server thread/INFO]: <Cognizar> but 50 radius
+[20:22:08] [Server thread/INFO]: <Cognizar> lets break this portal
+[20:22:09] [Server thread/INFO]: <Leucoptera> ok where we put it
+[20:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[20:22:25] [Server thread/INFO]: <Cognizar> actually nvm
+[20:22:28] [Server thread/INFO]: <Cognizar> lets dig to bedrock
+[20:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[20:22:45] [Server thread/INFO]: <Leucoptera> u took an obby
+[20:22:50] [Server thread/INFO]: <Cognizar> OMG DIAMONDS
+[20:23:00] [Server thread/INFO]: <Cognizar> wait
+[20:23:02] [Server thread/INFO]: <Leucoptera> YOOO
+[20:23:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8407ms or 168 ticks behind
+[20:23:05] [Server thread/INFO]: <Cognizar> can you wait until I get home?
+[20:23:09] [Server thread/INFO]: <Cognizar> i need to drive home
+[20:23:19] [Server thread/INFO]: <Leucoptera> im about to log off actually
+[20:23:26] [Server thread/INFO]: <Cognizar> cool
+[20:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8698ms or 173 ticks behind
+[20:23:33] [Server thread/INFO]: <Cognizar> I'll be here at 4
+[20:23:38] [Server thread/INFO]: <Leucoptera> kk
+[20:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
+[20:23:51] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[20:23:51] [Server thread/INFO]: Leucoptera left the game
+[20:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[20:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[20:28:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[20:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[20:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[20:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[20:30:51] [Server thread/INFO]: Cognizar lost connection: Timed out
+[20:30:51] [Server thread/INFO]: Cognizar left the game
+[20:33:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[20:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20:38:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:53:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:56:29] [Server thread/INFO]: Leucoptera[/99.7.181.25:58214] logged in with entity id 586638 at (-261.9151677414907, 14.0, -286.91475157920314)
+[20:56:29] [Server thread/INFO]: Leucoptera joined the game
+[20:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
+[20:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5383ms or 107 ticks behind
+[20:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5392ms or 107 ticks behind
+[21:01:22] [Server thread/INFO]: Cognizar[/76.252.251.182:11541] logged in with entity id 587430 at (-252.53616406939338, 9.0, -293.30000001192093)
+[21:01:22] [Server thread/INFO]: Cognizar joined the game
+[21:01:28] [Server thread/INFO]: <Cognizar> bacon time
+[21:01:38] [Server thread/INFO]: <Cognizar> get down here
+[21:02:20] [Server thread/INFO]: <Cognizar> pranav?
+[21:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[21:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5452ms or 109 ticks behind
+[21:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7566ms or 151 ticks behind
+[21:04:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7440ms or 148 ticks behind
+[21:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4819ms or 96 ticks behind
+[21:07:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6219ms or 124 ticks behind
+[21:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[21:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[21:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4887ms or 97 ticks behind
+[21:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21:14:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:17:02] [Server thread/INFO]: <Cognizar> get down here it is beacon time
+[21:17:24] [Server thread/INFO]: <Leucoptera> why doesnt this stupid mob grinder work
+[21:17:39] [Server thread/INFO]: <Leucoptera> absolutely no mobs???
+[21:17:41] [Server thread/INFO]: <Cognizar> bro beacons first ive waited too long for this moment
+[21:17:44] [Server thread/INFO]: <Leucoptera> after 10 mins of afk??
+[21:17:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[21:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6546ms or 130 ticks behind
+[21:18:19] [Server thread/INFO]: Cognizar has made the advancement [Bring Home the Beacon]
+[21:18:19] [Server thread/INFO]: Cognizar has reached the goal [Beaconator]
+[21:18:19] [Server thread/INFO]: Leucoptera has made the advancement [Bring Home the Beacon]
+[21:18:19] [Server thread/INFO]: Leucoptera has reached the goal [Beaconator]
+[21:18:30] [Server thread/INFO]: <Cognizar> you do the first one
+[21:18:35] [Server thread/INFO]: <Cognizar> what did you give it?
+[21:18:38] [Server thread/INFO]: <Leucoptera> which
+[21:18:43] [Server thread/INFO]: <Cognizar> do regen
+[21:18:47] [Server thread/INFO]: <Cognizar> ill do speed
+[21:19:01] [Server thread/INFO]: <Leucoptera> which one should we give it
+[21:19:05] [Server thread/INFO]: <Cognizar> regen
+[21:19:09] [Server thread/INFO]: <Leucoptera> not the metal
+[21:19:12] [Server thread/INFO]: <Leucoptera> not*
+[21:19:14] [Server thread/INFO]: <Leucoptera> no*
+[21:19:16] [Server thread/INFO]: <Cognizar> oh
+[21:19:22] [Server thread/INFO]: <Cognizar> whatever metal works I think
+[21:19:34] [Server thread/INFO]: <Leucoptera> is like diamond better than iron
+[21:19:39] [Server thread/INFO]: <Cognizar> i dont think it matters
+[21:19:42] [Server thread/INFO]: <Leucoptera> does it give amplfied effect
+[21:19:51] [Server thread/INFO]: <Cognizar> no
+[21:20:02] [Server thread/INFO]: <Cognizar> look it up but im p sure its all the same
+[21:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:20:26] [Server thread/INFO]: <Cognizar> wait you can do 2 effects???
+[21:20:31] [Server thread/INFO]: <Leucoptera> apparantly
+[21:20:38] [Server thread/INFO]: <Cognizar> oh this is pog
+[21:20:49] [Server thread/INFO]: <Cognizar> hold on
+[21:21:02] [Server thread/INFO]: <Cognizar> get another stack of iron blocks
+[21:21:06] [Server thread/INFO]: <Cognizar> im adding another beacon
+[21:21:29] [Server thread/INFO]: <Cognizar> no
+[21:21:33] [Server thread/INFO]: <Cognizar> we only need 1 layer in
+[21:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[21:22:16] [Server thread/INFO]: <Leucoptera> resist
+[21:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[21:22:32] [Server thread/INFO]: <Cognizar> resistance and strength?
+[21:22:37] [Server thread/INFO]: <Leucoptera> sure
+[21:22:40] [Server thread/INFO]: <Cognizar> or haste?
+[21:22:44] [Server thread/INFO]: <Leucoptera> hm
+[21:22:47] [Server thread/INFO]: <Leucoptera> resist
+[21:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
+[21:22:53] [Server thread/INFO]: <Leucoptera> we can haste when we need it
+[21:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[21:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:23:37] [Server thread/INFO]: <Cognizar> pog pog
+[21:23:46] [Server thread/INFO]: <Leucoptera> wait that gets rid of the strength
+[21:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[21:24:29] [Server thread/INFO]: <Cognizar> I think it's regeneration + primary or primary II only
+[21:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
+[21:24:39] [Server thread/INFO]: <Leucoptera> kk
+[21:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[21:24:53] [Server thread/INFO]: <Cognizar> we can always just get more beacons
+[21:25:04] [Server thread/INFO]: <Cognizar> we need 6 becaons to max out on effects
+[21:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[21:25:29] [Server thread/INFO]: <Cognizar> actually lets do strength 2
+[21:25:37] [Server thread/INFO]: <Cognizar> helps mob grinder, doesn't it?
+[21:25:41] [Server thread/INFO]: <Leucoptera> sure
+[21:26:16] [Server thread/INFO]: <Cognizar> lets sleep
+[21:26:21] [Server thread/INFO]: <Leucoptera> sleepin
+[21:26:37] [Server thread/INFO]: <Cognizar> zippy
+[21:26:41] [Server thread/INFO]: <Leucoptera> ooye
+[21:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:27:40] [Server thread/INFO]: <Leucoptera> ima try again
+[21:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
+[21:27:44] [Server thread/INFO]: <Leucoptera> the mob grind
+[21:27:59] [Server thread/INFO]: <Cognizar> unironically one of my most accomplished days in life
+[21:28:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
+[21:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5532ms or 110 ticks behind
+[21:28:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8122ms or 162 ticks behind
+[21:28:57] [Server thread/INFO]: <Cognizar> aight imma brb
+[21:28:58] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[21:28:58] [Server thread/INFO]: Cognizar left the game
+[21:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[21:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[21:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[21:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[21:33:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[21:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[21:41:25] [Server thread/INFO]: Cognizar[/76.252.251.182:11941] logged in with entity id 593990 at (-259.42649960070776, 132.0625, -286.3171370332857)
+[21:41:25] [Server thread/INFO]: Cognizar joined the game
+[21:41:58] [Server thread/INFO]: <Cognizar> whoa thats a lot of mobs
+[21:42:04] [Server thread/INFO]: <Leucoptera> bro have you just been killing all these
+[21:42:07] [Server thread/INFO]: <Cognizar> no
+[21:42:12] [Server thread/INFO]: <Cognizar> just got back
+[21:42:16] [Server thread/INFO]: <Leucoptera> ok
+[21:42:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:42:45] [Server thread/INFO]: <Cognizar> thats a lot of thrown away rotten flesh'
+[21:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[21:42:59] [Server thread/INFO]: <Cognizar> bro come down and look at the stuff being dropped into lava
+[21:43:02] [Server thread/INFO]: <Cognizar> its asmr
+[21:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6530ms or 130 ticks behind
+[21:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:43:48] [Server thread/INFO]: <Cognizar> no mobs within 24
+[21:43:48] [Server thread/INFO]: <Leucoptera> WAIT IS EVTH ELSE THROWN INTO LAVA?
+[21:43:53] [Server thread/INFO]: <Cognizar> yeah why?
+[21:43:54] [Server thread/INFO]: <Leucoptera> BESIDES ARROW, GUN, AND BONE?
+[21:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:44:02] [Server thread/INFO]: <Cognizar> of course
+[21:44:03] [Server thread/INFO]: <Leucoptera> bro there are useful things like armor
+[21:44:09] [Server thread/INFO]: <Cognizar> bro
+[21:44:09] [Server thread/INFO]: <Leucoptera> like gold armor
+[21:44:13] [Server thread/INFO]: <Cognizar> do we ever use that
+[21:44:17] [Server thread/INFO]: <Leucoptera> ...yes
+[21:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:44:24] [Server thread/INFO]: <Cognizar> we can get max prot gold armor for free like right now
+[21:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[21:44:42] [Server thread/INFO]: <Cognizar> like actually who care
+[21:44:43] [Server thread/INFO]: <Leucoptera> ig
+[21:44:51] [Server thread/INFO]: <Cognizar> those are the only three things worth keeping
+[21:44:56] [Server thread/INFO]: <Cognizar> and even then bones are debatable
+[21:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:45:27] [Server thread/INFO]: <Cognizar> even the carrots and iron ingots zombies drop are pointless
+[21:45:39] [Server thread/INFO]: <Leucoptera> ig
+[21:45:47] [Server thread/INFO]: <Leucoptera> can a dispsner pick up water again
+[21:45:50] [Server thread/INFO]: <Cognizar> yes
+[21:45:54] [Server thread/INFO]: <Leucoptera> how
+[21:46:02] [Server thread/INFO]: <Leucoptera> is it just another bucket button press
+[21:46:36] [Server thread/INFO]: <Cognizar> yes
+[21:46:56] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[21:46:56] [Server thread/INFO]: Cognizar left the game
+[21:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[21:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[21:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5270ms or 105 ticks behind
+[21:49:22] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[21:49:22] [Server thread/INFO]: Leucoptera left the game
