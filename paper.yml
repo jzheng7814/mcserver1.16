@@ -30,9 +30,9 @@ settings:
   max-player-auto-save-per-tick: -1
   save-empty-scoreboard-teams: false
   unsupported-settings:
-    allow-headless-pistons: false
-    allow-permanent-block-break-exploits: false
-    allow-piston-duplication: false
+    allow-headless-pistons: true
+    allow-permanent-block-break-exploits: true
+    allow-piston-duplication: true
     allow-headless-pistons-readme: This setting controls if players should be able
       to create headless pistons.
     allow-permanent-block-break-exploits-readme: This setting controls if players
