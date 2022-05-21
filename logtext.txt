@@ -4111,4 +4111,23 @@ Loading libraries, please wait...
 [m> [K[33;1m[03:24:09 WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind[m
 [m> [K[03:24:11 INFO]: Leucoptera lost connection: Disconnected[m
 > [K[03:24:11 INFO]: [0;33;1mLeucoptera left the game[m
-> 
+> [K[33;1m[04:08:12 WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind[m
+[m> [K[33;1m[04:09:19 WARN]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind[m
+[m> [K[33;1m[04:10:13 WARN]: Can't keep up! Is the server overloaded? Running 24564ms or 491 ticks behind[m
+[m> [31ms[0m[31mt[0m[31mo[0mstop[K
+[?1l>[?1000l[?2004l[?1h=[?2004h> [K[04:10:54 INFO]: Stopping the server[m
+> [K[04:10:54 INFO]: Stopping server[m
+> [K[04:10:54 INFO]: Saving players[m
+> [K[04:10:54 INFO]: Saving worlds[m
+> [K[04:10:54 INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved[m
+> [K[04:10:54 INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved[m
+> [K[04:10:54 INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved[m
+> [K[04:10:54 INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved[m
+> [K[04:10:54 INFO]: Flushing Chunk IO[m
+> [K[04:10:54 INFO]: Closing Thread Pool[m
+> [04:10:54 INFO]: Closing Server
