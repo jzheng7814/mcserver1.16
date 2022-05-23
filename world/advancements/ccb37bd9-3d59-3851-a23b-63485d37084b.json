@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2022-05-22 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2022-05-06 23:19:28 +0000"
@@ -566,6 +572,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-05-01 02:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2022-05-22 20:44:30 +0000"
     },
     "done": true
   },
@@ -796,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-05-22 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-05-01 02:24:51 +0000"
@@ -814,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2022-05-22 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-05-02 20:11:00 +0000"
@@ -823,6 +847,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-05-11 14:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
@@ -916,9 +946,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-05-22 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-05-01 02:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
@@ -979,6 +1021,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2022-05-09 21:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-05-22 20:44:30 +0000"
     },
     "done": true
   },
@@ -1336,11 +1384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2022-05-22 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2022-05-01 02:08:06 +0000",
       "minecraft:mountains": "2022-05-01 02:11:14 +0000",
       "minecraft:taiga": "2022-05-01 02:51:01 +0000",
+      "minecraft:desert_hills": "2022-05-21 21:41:25 +0000",
       "minecraft:taiga_hills": "2022-05-03 01:53:05 +0000",
       "minecraft:desert": "2022-05-18 16:40:36 +0000",
       "minecraft:warm_ocean": "2022-05-18 16:41:00 +0000",
@@ -1350,6 +1405,7 @@
       "minecraft:lukewarm_ocean": "2022-05-18 16:40:50 +0000",
       "minecraft:wooded_mountains": "2022-05-03 01:47:49 +0000",
       "minecraft:wooded_hills": "2022-05-01 20:47:49 +0000",
+      "minecraft:savanna": "2022-05-21 21:41:47 +0000",
       "minecraft:plains": "2022-05-01 02:16:54 +0000"
     },
     "done": false
@@ -1450,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-05-22 02:40:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-05-01 02:13:03 +0000"
@@ -1507,6 +1569,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2022-05-06 22:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
@@ -1660,6 +1728,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-05-01 19:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
@@ -2088,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-05-22 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2022-05-01 02:31:38 +0000"
@@ -2121,6 +2201,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2022-05-01 19:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
@@ -2665,6 +2751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-05-22 20:44:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-07 21:05:48 +0000"
@@ -3028,6 +3120,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2022-05-01 02:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2022-05-22 02:40:06 +0000"
     },
     "done": true
   },
