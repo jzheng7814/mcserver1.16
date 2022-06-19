@@ -1,345 +1,59 @@
-[04:46:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:46:12] [Worker-Main-1/INFO]: Loaded 7 recipes
-[04:46:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[04:46:14] [Server thread/INFO]: Loading properties
-[04:46:14] [Server thread/INFO]: This server is running Paper version git-Paper-341 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: fc1752f)
-[04:46:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:46:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:46:14] [Server thread/INFO]: Default game type: SURVIVAL
-[04:46:14] [Server thread/INFO]: Generating keypair
-[04:46:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:46:14] [Server thread/INFO]: Using epoll channel type
-[04:46:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:46:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:46:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:46:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:46:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:46:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:46:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:46:14] [Server thread/INFO]: Preparing level "world"
-[04:46:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:46:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:23] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:24] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:24] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:25] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:25] [Server thread/INFO]: Time elapsed: 3302 ms
-[04:46:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:46:25] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:26] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:27] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:27] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:27] [Server thread/INFO]: Time elapsed: 2083 ms
-[04:46:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:46:28] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:28] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:28] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:29] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:29] [Server thread/INFO]: Preparing spawn area: 0%
-[04:46:29] [Server thread/INFO]: Time elapsed: 2145 ms
-[04:46:29] [Server thread/INFO]: Running delayed init tasks
-[04:46:29] [Server thread/INFO]: Done (15.728s)! For help, type "help"
-[04:46:29] [Server thread/INFO]: Timings Reset
-[04:46:53] [User Authenticator #1/INFO]: UUID of player Cognizar is 66bd3871-fefb-3f88-a246-0d8ecfa6cb6d
-[04:46:53] [Server thread/INFO]: Cognizar joined the game
-[04:46:53] [Server thread/INFO]: Cognizar[/76.252.251.182:34011] logged in with entity id 755 at ([world_nether]-60.03984047190329, 131.99151376510102, -40.831330260505666)
-[04:47:03] [Server thread/INFO]: Cognizar issued server command: /gamemode survival
-[04:47:23] [Server thread/INFO]: Cognizar issued server command: /give Cognizar wither_rose 15
-[04:48:00] [Server thread/INFO]: Cognizar issued server command: /give Cognizar magma_block 576
-[04:55:40] [Server thread/INFO]: Cognizar issued server command: /give Cognizar rail 128
-[04:55:51] [Server thread/INFO]: Cognizar issued server command: /give Cognizar redstone_torch 30
-[04:56:24] [Server thread/INFO]: Cognizar issued server command: /give Cognizar hopper 1
-[04:57:17] [Server thread/INFO]: Cognizar issued server command: /give Cognizar smooth_stone_slab 128
-[04:59:17] [Server thread/INFO]: Cognizar issued server command: /give Cognizar redstone_torch 30
-[05:01:32] [User Authenticator #2/INFO]: UUID of player Leucoptera is ccb37bd9-3d59-3851-a23b-63485d37084b
-[05:01:32] [Server thread/INFO]: Leucoptera joined the game
-[05:01:32] [Server thread/INFO]: Leucoptera[/99.7.181.25:56892] logged in with entity id 4049 at ([world]-253.2706004197705, 64.0, -194.21935121830876)
-[05:01:41] [Async Chat Thread - #0/INFO]: <Cognizar> ey
-[05:01:47] [Async Chat Thread - #0/INFO]: <Leucoptera> hey
-[05:02:04] [Async Chat Thread - #0/INFO]: <Cognizar> currently in nether finishing up a patch of build
-[05:02:14] [Async Chat Thread - #0/INFO]: <Cognizar> can you fly around and try to find an area with a lot of animals
-[05:02:19] [Async Chat Thread - #0/INFO]: <Leucoptera> its night
-[05:02:27] [Async Chat Thread - #0/INFO]: <Cognizar> take the wither spawning materials with me, then tp me to u when done
-[05:02:29] [Async Chat Thread - #0/INFO]: <Cognizar> oh just slee
-[05:02:43] [Async Chat Thread - #0/INFO]: <Leucoptera> oh ok i thought u wer here
-[05:02:51] [Async Chat Thread - #0/INFO]: <Cognizar> oh no im in the nether
-[05:03:10] [Async Chat Thread - #0/INFO]: <Leucoptera> oh yeah the ice farm created a death pit under it; stand close and youll have creeper/zombie swarm around u
-[05:03:23] [Async Chat Thread - #0/INFO]: <Cognizar> lmao yeah I noticed that
-[05:03:30] [Async Chat Thread - #0/INFO]: <Cognizar> invis pots pro when placing beacons
-[05:03:36] [Async Chat Thread - #0/INFO]: <Leucoptera> tru tru
-[05:03:56] [Async Chat Thread - #0/INFO]: <Leucoptera> what if we just make a cow farm or pig farm or smth
-[05:04:04] [Async Chat Thread - #0/INFO]: <Cognizar> you can do that sure
-[05:04:09] [Async Chat Thread - #0/INFO]: <Leucoptera> thats like hundreds of entities
-[05:04:09] [Async Chat Thread - #0/INFO]: <Cognizar> but itll be annoying to wait
-[05:04:13] [Async Chat Thread - #0/INFO]: <Leucoptera> wdym?
-[05:04:17] [Async Chat Thread - #0/INFO]: <Leucoptera> oh yah
-[05:04:26] [Async Chat Thread - #0/INFO]: <Cognizar> this is a one time thing
-[05:04:32] [Async Chat Thread - #0/INFO]: <Cognizar> i almost never use roses in my builds
-[05:04:35] [Async Chat Thread - #0/INFO]: <Cognizar> just need 15 more roses
-[05:04:53] [Async Chat Thread - #0/INFO]: <Leucoptera> well it sbetter than flying for who know how long trying to find a bunch of animals together
-[05:05:06] [Async Chat Thread - #0/INFO]: <Cognizar> hmm
-[05:05:27] [Async Chat Thread - #0/INFO]: <Cognizar> i mean realistically i think baby animals drop roses too so you only need like
-[05:05:40] [Async Chat Thread - #0/INFO]: <Cognizar> 10 animals, breed em and you get 5 more
-[05:05:45] [Async Chat Thread - #0/INFO]: <Cognizar> and that gives you 15 roses
-[05:06:33] [Async Chat Thread - #0/INFO]: <Leucoptera> do chimkins work
-[05:06:37] [Async Chat Thread - #0/INFO]: <Cognizar> yes
-[05:06:38] [Async Chat Thread - #0/INFO]: <Cognizar> any mob
-[05:06:55] [Async Chat Thread - #0/INFO]: <Cognizar> chickens actually work better because they get 1hked in an explosion
-[05:07:04] [Async Chat Thread - #0/INFO]: <Cognizar> if they die to wither effect but not mob no rose
-[05:07:16] [Async Chat Thread - #0/INFO]: <Cognizar> yes
-[05:12:36] [Server thread/INFO]: Leucoptera issued server command: /time set day
-[05:15:45] [Async Chat Thread - #1/INFO]: <Cognizar> wait are you doing this close to base?
-[05:15:57] [Async Chat Thread - #1/INFO]: <Leucoptera> vill2, but i will mvoe the chickens out
-[05:16:00] [Async Chat Thread - #1/INFO]: <Cognizar> kk
-[05:16:06] [Async Chat Thread - #1/INFO]: <Cognizar> how many?
-[05:16:17] [Async Chat Thread - #1/INFO]: <Leucoptera> so will baby chickens work as well
-[05:16:38] [Async Chat Thread - #1/INFO]: <Leucoptera> ?
-[05:16:47] [Async Chat Thread - #1/INFO]: <Cognizar> apparently not
-[05:16:53] [Async Chat Thread - #1/INFO]: <Leucoptera> only adults?
-[05:16:57] [Async Chat Thread - #1/INFO]: <Cognizar> you can feed them seeds to make them grow faster though
-[05:20:24] [Async Chat Thread - #2/INFO]: <Cognizar> this farms rates is trash
-[05:20:28] [Async Chat Thread - #2/INFO]: <Cognizar> a stack an hour of afk
-[05:20:33] [Async Chat Thread - #2/INFO]: <Cognizar> ah its good enough for us
-[05:20:39] [Async Chat Thread - #2/INFO]: <Leucoptera> i mean yeah its good enough i think
-[05:20:55] [Async Chat Thread - #2/INFO]: <Cognizar> yeah you only need 5 to respawn the dragon
-[05:20:55] [Async Chat Thread - #2/INFO]: <Leucoptera> fed over 2 stacks of seeds to babies, waiting for them to grow
-[05:21:20] [Async Chat Thread - #2/INFO]: <Cognizar> just wait, itll happen sooner or later
-[05:21:27] [Server thread/INFO]: Leucoptera issued server command: /time set 0
-[05:21:33] [Async Chat Thread - #2/INFO]: <Leucoptera> moving all of them away from vilage
-[05:21:38] [Async Chat Thread - #2/INFO]: <Cognizar> alternatively, we can fight the wither at night
-[05:23:12] [Async Chat Thread - #3/INFO]: <Cognizar> you might wanna spend a bit building obsidian barriers and setups because outside wither is brutal
-[05:25:10] [Async Chat Thread - #4/INFO]: <Leucoptera> ho wbig/thick
-[05:25:16] [Async Chat Thread - #4/INFO]: <Cognizar> uhhhh
-[05:25:25] [Async Chat Thread - #4/INFO]: <Cognizar> how big depends on how the wither flies
-[05:25:28] [Async Chat Thread - #4/INFO]: <Leucoptera> also will chickens despawn if i go away
-[05:25:29] [Async Chat Thread - #4/INFO]: <Cognizar> it may require some chasing
-[05:25:43] [Async Chat Thread - #4/INFO]: <Cognizar> I don't believe they will, no
-[05:26:39] [Async Chat Thread - #4/INFO]: <Leucoptera> how big room
-[05:26:45] [Async Chat Thread - #4/INFO]: <Cognizar> for what
-[05:26:50] [Async Chat Thread - #4/INFO]: <Leucoptera> obsidian walls
-[05:26:57] [Async Chat Thread - #4/INFO]: <Cognizar> walls dont matter
-[05:27:03] [Async Chat Thread - #4/INFO]: <Cognizar> remember this thing breaks obsidian
-[05:27:06] [Async Chat Thread - #4/INFO]: <Leucoptera> you jsut said make walls
-[05:27:09] [Async Chat Thread - #4/INFO]: <Leucoptera> out of obs
-[05:27:14] [Async Chat Thread - #4/INFO]: <Cognizar> just something to hide behind as we snipe the wither
-[05:27:21] [Async Chat Thread - #4/INFO]: <Cognizar> scattered around an area on the plains
-[05:27:31] [Async Chat Thread - #4/INFO]: <Leucoptera> huh
-[05:27:35] [Async Chat Thread - #4/INFO]: <Cognizar> sorry I could have been more clear
-[05:27:50] [Async Chat Thread - #4/INFO]: <Cognizar> just build like small 3x3 walls around the plain where we can duck behind to shoot the wither while taking cover
-[05:28:06] [Async Chat Thread - #4/INFO]: <Leucoptera> ah ok
-[05:28:16] [Async Chat Thread - #4/INFO]: <Leucoptera> will roses not blow up?
-[05:28:23] [Async Chat Thread - #4/INFO]: <Cognizar> yeah
-[05:28:29] [Async Chat Thread - #4/INFO]: <Cognizar> they're wither-proof
-[05:29:12] [Async Chat Thread - #4/INFO]: <Leucoptera> ok im ready
-[05:29:20] [Async Chat Thread - #4/INFO]: <Cognizar> kk tp me
-[05:29:36] [Async Chat Thread - #4/INFO]: <Leucoptera> idk how many adults there are we can go grab pots while the rest grow
-[05:29:40] [Server thread/INFO]: Leucoptera issued server command: /tp Cognizar Leucoptera
-[05:29:52] [Async Chat Thread - #4/INFO]: <Cognizar> no I stay to keep chunks loaded
-[05:29:56] [Async Chat Thread - #4/INFO]: <Cognizar> you can go
-[05:30:13] [Async Chat Thread - #4/INFO]: <Cognizar> bring a totem just in case
-[05:30:17] [Async Chat Thread - #4/INFO]: <Cognizar> for me too
-[05:31:35] [Server thread/INFO]: Cognizar issued server command: /time set 0
-[05:31:35] [Server thread/INFO]: Leucoptera issued server command: /time set 0
-[05:31:41] [Async Chat Thread - #5/INFO]: <Cognizar> jinx
-[05:31:46] [Async Chat Thread - #5/INFO]: <Leucoptera> lol
-[05:32:09] [Async Chat Thread - #5/INFO]: <Cognizar> you ready?
-[05:32:43] [Async Chat Thread - #5/INFO]: <Cognizar> spawn the wither in the chicken pit
-[05:32:50] [Async Chat Thread - #5/INFO]: <Cognizar> wait can u tp me out
-[05:32:50] [Async Chat Thread - #5/INFO]: <Leucoptera> the explosion will kill them
-[05:32:53] [Async Chat Thread - #5/INFO]: <Cognizar> exactly
-[05:32:54] [Server thread/INFO]: Leucoptera issued server command: /tp Cognizar le
-[05:32:57] [Server thread/INFO]: Leucoptera issued server command: /tp Cognizar Leucoptera
-[05:33:05] [Async Chat Thread - #5/INFO]: <Leucoptera> oh is it not supp to be the skulls?
-[05:33:14] [Async Chat Thread - #5/INFO]: <Leucoptera> oh wait do u have sand/skulls
-[05:33:15] [Async Chat Thread - #5/INFO]: <Cognizar> it doesnt have to, just the wither kiling them
-[05:33:18] [Async Chat Thread - #5/INFO]: <Cognizar> (I think
-[05:33:23] [Async Chat Thread - #5/INFO]: <Cognizar> we can spawn, throw at base
-[05:33:29] [Server thread/INFO]: Cognizar issued server command: /give Cognizar soul_sand 4
-[05:33:29] [Async Chat Thread - #5/INFO]: <Leucoptera> i forgot to get
-[05:33:36] [Server thread/INFO]: Cognizar issued server command: /give Cognizar minecraft:wither_skeleton_skull 3
-[05:33:59] [Async Chat Thread - #5/INFO]: <Leucoptera> go
-[05:35:14] [Async Chat Thread - #6/INFO]: <Cognizar> 29 wither roses pog
-[05:35:18] [Async Chat Thread - #6/INFO]: <Cognizar> def enough
-[05:35:21] [Async Chat Thread - #6/INFO]: <Leucoptera> i got one rose
-[05:35:34] [Async Chat Thread - #6/INFO]: <Cognizar> these roses are great for farms
-[05:35:50] [Async Chat Thread - #6/INFO]: <Cognizar> but not worth making a 1.3k/h farm that we will use for 10 minutes then never use again
-[05:35:58] [Async Chat Thread - #6/INFO]: <Leucoptera> yeah
-[05:36:59] [Async Chat Thread - #7/INFO]: <Cognizar> time to finish this thing
-[05:37:01] [Async Chat Thread - #7/INFO]: <Cognizar> wanna help?
-[05:37:08] [Async Chat Thread - #7/INFO]: <Leucoptera> finish what, the farm? sure
-[05:38:03] [Async Chat Thread - #7/INFO]: <Cognizar> wya
-[05:38:12] [Async Chat Thread - #7/INFO]: <Leucoptera> wYa?
-[05:38:19] [Server thread/INFO]: Cognizar issued server command: /tp Leucoptera Cognizar
-[05:38:26] [Server thread/INFO]: Cognizar issued server command: /give Cognizar redstone_torch 23
-[05:38:28] [Async Chat Thread - #7/INFO]: <Leucoptera> why so close to path
-[05:38:30] [Async Chat Thread - #7/INFO]: <Cognizar> oop too many
-[05:38:43] [Async Chat Thread - #7/INFO]: <Cognizar> uhhh why not
-[05:38:45] [Async Chat Thread - #7/INFO]: <Cognizar> lazy
-[05:38:55] [Async Chat Thread - #7/INFO]: <Leucoptera> wont ghasts aim and blow at us
-[05:39:08] [Async Chat Thread - #7/INFO]: <Cognizar> we are on ice boats
-[05:39:24] [Async Chat Thread - #7/INFO]: <Leucoptera> but they rcognize the player, and shoot, the fireball will land on and destroy the path
-[05:39:26] [Async Chat Thread - #7/INFO]: <Cognizar> can you finish the glass wall around the farm
-[05:39:35] [Async Chat Thread - #7/INFO]: <Leucoptera> see chat^
-[05:39:47] [Async Chat Thread - #7/INFO]: <Cognizar> they wont be able to target that quick (I think)
-[05:39:54] [Async Chat Thread - #7/INFO]: <Cognizar> besides this farms spawn rate is trash
-[05:40:04] [Async Chat Thread - #7/INFO]: <Leucoptera> they target while i zip past on elytras thru soul sand valley
-[05:40:12] [Async Chat Thread - #7/INFO]: <Leucoptera> theres nothing stopping them from doing same on ice boats
-[05:40:24] [Async Chat Thread - #7/INFO]: <Cognizar> we'll cross that bridge when we come to it
-[05:40:47] [Async Chat Thread - #7/INFO]: <Leucoptera> we alr at that brdige mate, u want to cross it while its on fire
-[05:41:02] [Async Chat Thread - #7/INFO]: <Cognizar> i live dangerously
-[05:41:52] [Async Chat Thread - #7/INFO]: <Leucoptera> srsly tho let me structure block move it
-[05:41:59] [Async Chat Thread - #7/INFO]: <Cognizar> after we finish
-[05:42:00] [Async Chat Thread - #7/INFO]: <Leucoptera> i dont want to repair the ice boat
-[05:42:10] [Async Chat Thread - #7/INFO]: <Leucoptera> nah after finish, ghasts will alre spawn
-[05:42:16] [Async Chat Thread - #7/INFO]: <Cognizar> sure fine
-[05:42:20] [Async Chat Thread - #7/INFO]: <Leucoptera> let me do now rq
-[05:42:21] [Async Chat Thread - #7/INFO]: <Cognizar> gives me time to read final step as is
-[05:42:24] [Async Chat Thread - #7/INFO]: <Leucoptera> pick a good spot
-[05:42:30] [Async Chat Thread - #7/INFO]: <Leucoptera> or shoul di just move it somwehre
-[05:42:40] [Async Chat Thread - #7/INFO]: <Cognizar> this farm can realistically be moved anywhere in the soul sand valley
-[05:42:47] [Server thread/INFO]: Leucoptera issued server command: /gamemode creative
-[05:43:36] [Async Chat Thread - #7/INFO]: <Leucoptera> wait how do you collect the stuff from the chests if there are ghasts right there
-[05:44:07] [Async Chat Thread - #7/INFO]: <Cognizar> huh
-[05:44:10] [Async Chat Thread - #7/INFO]: <Cognizar> they cant see you
-[05:44:28] [Async Chat Thread - #7/INFO]: <Cognizar> or just bow them
-[05:44:32] [Async Chat Thread - #7/INFO]: <Leucoptera> then why is going by on an ice boat a worry
-[05:44:40] [Async Chat Thread - #7/INFO]: <Leucoptera> no like they will keep spawning, yes?
-[05:44:43] [Async Chat Thread - #7/INFO]: <Cognizar> its not a worry lol
-[05:44:55] [Async Chat Thread - #7/INFO]: <Leucoptera> bro what is stopping the chests from getting blown up
-[05:45:06] [Async Chat Thread - #7/INFO]: <Cognizar> if ur so worried we can make the walls on the ice path for this section 2 tall
-[05:45:13] [Async Chat Thread - #7/INFO]: <Cognizar> so the ghasts dont make LOS with us
-[05:45:27] [Async Chat Thread - #7/INFO]: <Leucoptera> what stops them from blowing u up as you colelct materials from chest
-[05:45:47] [Async Chat Thread - #7/INFO]: <Cognizar> kill them first, then they can't spawn close to you...?
-[05:46:01] [Async Chat Thread - #7/INFO]: <Leucoptera> oh ok
-[05:46:27] [Async Chat Thread - #7/INFO]: <Cognizar> and the easier solution would just be to 2-high the walls on this stretch
-[05:46:44] [Async Chat Thread - #7/INFO]: <Cognizar> right
-[05:46:55] [Async Chat Thread - #7/INFO]: <Leucoptera> inconvenient to get out and run around for any purpose at all
-[05:47:04] [Server thread/INFO]: Leucoptera issued server command: /give Leucoptera minecraft:structure_block
-[05:47:17] [Async Chat Thread - #7/INFO]: <Cognizar> include the redstone torches
-[05:47:24] [Async Chat Thread - #7/INFO]: <Cognizar> bro how about this
-[05:47:30] [Async Chat Thread - #7/INFO]: <Cognizar> we first see if this creates any issues at all
-[05:47:42] [Async Chat Thread - #7/INFO]: <Cognizar> because I significantly doubt it will
-[05:50:10] [Async Chat Thread - #8/INFO]: <Leucoptera> loaded, move it?
-[05:50:30] [Async Chat Thread - #8/INFO]: <Leucoptera> ok as u said lets test here then
-[05:50:38] [Server thread/INFO]: Leucoptera issued server command: /gamemode sur
-[05:50:39] [Async Chat Thread - #8/INFO]: <Cognizar> afk spot isnt even built
-[05:50:48] [Async Chat Thread - #8/INFO]: <Cognizar> argh forgot to get scaffolding
-[05:50:54] [Async Chat Thread - #8/INFO]: <Leucoptera> will move meanwhile then
-[05:51:02] [Async Chat Thread - #8/INFO]: <Cognizar> waut
-[05:51:07] [Async Chat Thread - #8/INFO]: <Cognizar> dont remove all these extra blocks
-[05:51:22] [Async Chat Thread - #8/INFO]: <Leucoptera> do u see the outline
-[05:51:26] [Async Chat Thread - #8/INFO]: <Cognizar> no
-[05:51:27] [Async Chat Thread - #8/INFO]: <Leucoptera> evth in outline is copied over
-[05:51:29] [Async Chat Thread - #8/INFO]: <Leucoptera> oh
-[05:51:38] [Server thread/INFO]: Cognizar issued server command: /gamemode creative
-[05:51:41] [Async Chat Thread - #8/INFO]: <Cognizar> now I do
-[05:53:16] [Async Chat Thread - #9/INFO]: <Leucoptera> copied
-[05:53:19] [Async Chat Thread - #9/INFO]: <Cognizar> moved?
-[05:53:20] [Async Chat Thread - #9/INFO]: <Leucoptera> tp u here?
-[05:53:23] [Async Chat Thread - #9/INFO]: <Leucoptera> yes
-[05:53:25] [Async Chat Thread - #9/INFO]: <Cognizar> wait
-[05:53:30] [Async Chat Thread - #9/INFO]: <Cognizar> kk now
-[05:53:35] [Server thread/INFO]: Cognizar issued server command: /gamemode survival
-[05:53:39] [Server thread/INFO]: Leucoptera issued server command: /tp Cognizar Leucoptera
-[05:53:45] [Async Chat Thread - #9/INFO]: <Leucoptera> its 80 blocks out from over there
-[05:53:47] [Async Chat Thread - #9/INFO]: <Cognizar> kk
-[05:53:53] [Async Chat Thread - #9/INFO]: <Cognizar> we have enough ice to make the ice path here
-[05:53:58] [Async Chat Thread - #9/INFO]: <Leucoptera> yeah
-[05:54:38] [Async Chat Thread - #9/INFO]: <Leucoptera> if u make the path, make it flush with the existing path
-[05:54:45] [Async Chat Thread - #9/INFO]: <Leucoptera> am destroying old copy
-[05:54:51] [Async Chat Thread - #9/INFO]: <Cognizar> kk
-[05:55:11] [Server thread/INFO]: Leucoptera issued server command: /fill ~ ~ ~ ~25 ~9 ~25 air
-[05:55:29] [Server thread/INFO]: Leucoptera issued server command: /gamemode survival
-[05:55:38] [Async Chat Thread - #9/INFO]: <Leucoptera> will go get ice and walls and button
-[05:55:41] [Async Chat Thread - #9/INFO]: <Leucoptera> for ice path
-[05:55:42] [Async Chat Thread - #9/INFO]: <Cognizar> sure
-[05:55:45] [Async Chat Thread - #9/INFO]: <Cognizar> ill finish this
-[05:57:12] [Async Chat Thread - #10/INFO]: <Cognizar> cant see the bottom, render distance too low
-[05:57:15] [Async Chat Thread - #10/INFO]: <Cognizar> so idk if this is working
-[05:57:22] [Async Chat Thread - #10/INFO]: <Leucoptera> oh ok
-[05:57:44] [Async Chat Thread - #10/INFO]: <Cognizar> you might need to spectator after you finish ice path to verify that its good
-[05:59:11] [Async Chat Thread - #11/INFO]: <Cognizar> forgot the hopper minecart
-[05:59:37] [Async Chat Thread - #11/INFO]: <Leucoptera> should i bring
-[05:59:44] [Async Chat Thread - #11/INFO]: <Cognizar> no like
-[05:59:47] [Async Chat Thread - #11/INFO]: <Cognizar> forgot to put it down
-[05:59:51] [Async Chat Thread - #11/INFO]: <Leucoptera> oh
-[06:00:09] [Server thread/INFO]: Leucoptera issued server command: /gamemode spectator
-[06:00:25] [Async Chat Thread - #11/INFO]: <Leucoptera> no ghasts
-[06:00:41] [Async Chat Thread - #11/INFO]: <Leucoptera> can we jsut make a cobble wall aroudn the thing
-[06:00:46] [Async Chat Thread - #11/INFO]: <Leucoptera> OH MY GOD THATS DEMONIC
-[06:00:50] [Async Chat Thread - #11/INFO]: <Leucoptera> THE SOUND
-[06:01:24] [Async Chat Thread - #11/INFO]: <Cognizar> what
-[06:01:34] [Async Chat Thread - #11/INFO]: <Cognizar> yeah
-[06:01:44] [Async Chat Thread - #11/INFO]: <Cognizar> rates on this farm are usually pretty bad as I said
-[06:01:46] [Async Chat Thread - #11/INFO]: <Leucoptera> can we cobble wall around it?
-[06:01:50] [Async Chat Thread - #11/INFO]: <Cognizar> why?
-[06:02:02] [Async Chat Thread - #11/INFO]: <Leucoptera> so we dont get jumped while approaching it?
-[06:03:17] [Async Chat Thread - #12/INFO]: <Leucoptera> how close can a ghast now spawn to a player
-[06:03:25] [Async Chat Thread - #12/INFO]: <Leucoptera> not*
-[06:03:34] [Server thread/INFO]: Leucoptera issued server command: /tp Cognizar
-[06:03:40] [Async Chat Thread - #12/INFO]: <Leucoptera> jerry u there?
-[06:04:15] [Async Chat Thread - #12/INFO]: <Cognizar> hold on
-[06:04:48] [Async Chat Thread - #12/INFO]: <Cognizar> that should help things
-[06:05:00] [Async Chat Thread - #12/INFO]: <Leucoptera> cobble wall?
-[06:05:04] [Async Chat Thread - #12/INFO]: <Leucoptera> what is "that"
-[06:05:45] [Async Chat Thread - #12/INFO]: <Cognizar> moved afk spot away from on top of the thing
-[06:05:52] [Async Chat Thread - #12/INFO]: <Leucoptera> why
-[06:05:52] [Async Chat Thread - #12/INFO]: <Cognizar> apparently, that slows spawns?
-[06:06:03] [Async Chat Thread - #12/INFO]: <Leucoptera> interesting
-[06:06:08] [Async Chat Thread - #12/INFO]: <Cognizar> not that there seems to be any spawns
-[06:06:16] [Async Chat Thread - #12/INFO]: <Leucoptera> there are qite a few
-[06:06:19] [Async Chat Thread - #12/INFO]: <Cognizar> really?
-[06:06:23] [Async Chat Thread - #12/INFO]: <Cognizar> can I watch>
-[06:06:26] [Async Chat Thread - #12/INFO]: <Leucoptera> yeah u jsut cant see from here
-[06:06:31] [Async Chat Thread - #12/INFO]: <Leucoptera> suyre
-[06:06:33] [Async Chat Thread - #12/INFO]: <Cognizar> afk up here let me see
-[06:06:40] [Server thread/INFO]: Leucoptera issued server command: /gamemode sur
-[06:06:44] [Server thread/INFO]: Leucoptera issued server command: /gamemode survival
-[06:06:45] [Server thread/INFO]: Cognizar issued server command: /gamemode spectator
-[06:07:18] [Server thread/INFO]: Cognizar issued server command: /gamemode creative
-[06:07:25] [Async Chat Thread - #12/INFO]: <Cognizar> something messed up
-[06:07:33] [Async Chat Thread - #12/INFO]: <Cognizar> stay, I fix
-[06:09:01] [Server thread/INFO]: Cognizar issued server command: /gamemode spectator
-[06:09:07] [Server thread/INFO]: Cognizar issued server command: /gamemode creative
-[06:09:24] [Server thread/INFO]: Cognizar issued server command: /gamemode spectator
-[06:10:02] [Async Chat Thread - #13/INFO]: <Cognizar> this is cool and a game changer
-[06:10:24] [Async Chat Thread - #13/INFO]: <Cognizar> means we can now have regen II potion auto brewer
-[06:10:31] [Async Chat Thread - #13/INFO]: <Leucoptera> yassss
-[06:10:34] [Async Chat Thread - #13/INFO]: <Cognizar> and also means we can respawn dragons easily
-[06:10:58] [Async Chat Thread - #13/INFO]: <Cognizar> in the past it would have meant tons of running around soul sand biomes and watching tears drop into lava
-[06:11:11] [Async Chat Thread - #13/INFO]: <Leucoptera> lmao
-[06:11:21] [Async Chat Thread - #13/INFO]: <Cognizar> kk
-[06:11:25] [Async Chat Thread - #13/INFO]: <Cognizar> ill afk here overnight
-[06:11:31] [Async Chat Thread - #13/INFO]: <Cognizar> get several stacks of tears
-[06:11:47] [Async Chat Thread - #13/INFO]: <Cognizar> its time to sleep though for real so
-[06:11:58] [Async Chat Thread - #13/INFO]: <Cognizar> you gonna get down and back to base?
-[06:12:35] [Async Chat Thread - #13/INFO]: <Leucoptera> def
-[06:12:35] [Async Chat Thread - #13/INFO]: <Cognizar> pranav?
-[06:12:39] [Async Chat Thread - #13/INFO]: <Cognizar> yeye
-[06:12:42] [Async Chat Thread - #13/INFO]: <Cognizar> you ho
-[06:12:48] [Async Chat Thread - #13/INFO]: <Cognizar> ill go up there and get off
-[06:13:05] [Server thread/INFO]: Cognizar issued server command: /gamemode creative
-[06:13:27] [Server thread/INFO]: Cognizar issued server command: /gamemode survival
-[06:13:28] [Async Chat Thread - #13/INFO]: <Leucoptera> alr cya
-[06:13:30] [Async Chat Thread - #13/INFO]: <Cognizar> cya
-[06:13:33] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[06:13:33] [Server thread/INFO]: Leucoptera left the game
-[06:13:39] [Server thread/INFO]: Cognizar lost connection: Disconnected
-[06:13:39] [Server thread/INFO]: Cognizar left the game
-[06:15:01] [Server thread/INFO]: Stopping the server
-[06:15:01] [Server thread/INFO]: Stopping server
-[06:15:01] [Server thread/INFO]: Saving players
-[06:15:01] [Server thread/INFO]: Saving worlds
-[06:15:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:15:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[06:15:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[06:15:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:15:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:15:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:15:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:15:04] [Server thread/INFO]: Flushing Chunk IO
-[06:15:04] [Server thread/INFO]: Closing Thread Pool
-[06:15:04] [Server thread/INFO]: Closing Server
+[02:55:36] [User Authenticator #31/INFO]: UUID of player CSGeek01 is e24a56b2-374b-4dc4-9aba-ef36d4dfb5ac
+[02:55:37] [Server thread/INFO]: CSGeek01 joined the game
+[02:55:37] [Server thread/INFO]: CSGeek01[/24.96.155.68:54114] logged in with entity id 434323 at ([world]-253.8775425007588, 132.5625, -282.1980558783177)
+[02:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[02:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9560ms or 191 ticks behind
+[02:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9438ms or 188 ticks behind
+[02:59:23] [Server thread/INFO]: CSGeek01 lost connection: Disconnected
+[02:59:23] [Server thread/INFO]: CSGeek01 left the game
+[02:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10016ms or 200 ticks behind
+[03:29:47] [User Authenticator #32/INFO]: UUID of player Leucoptera is 1324ed10-bbdd-4ed6-bdb7-055790004a4b
+[03:29:48] [Server thread/INFO]: Leucoptera joined the game
+[03:29:48] [Server thread/INFO]: Leucoptera[/99.7.181.25:63872] logged in with entity id 437326 at ([world]-259.69999998807907, 132.0625, -283.5982946382068)
+[03:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[03:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[03:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9360ms or 187 ticks behind
+[03:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
+[03:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5439ms or 108 ticks behind
+[03:34:23] [Server thread/INFO]: Leucoptera issued server command: /time set day
+[03:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10133ms or 202 ticks behind
+[03:37:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[03:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[03:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6255ms or 125 ticks behind
+[03:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9284ms or 185 ticks behind
+[03:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18838ms or 376 ticks behind
+[03:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[03:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7709ms or 154 ticks behind
+[03:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12924ms or 258 ticks behind
+[03:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10980ms or 219 ticks behind
+[03:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10276ms or 205 ticks behind
+[03:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[03:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9236ms or 184 ticks behind
+[03:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10677ms or 213 ticks behind
+[03:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8419ms or 168 ticks behind
+[03:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10181ms or 203 ticks behind
+[03:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[03:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10542ms or 210 ticks behind
+[03:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9696ms or 193 ticks behind
+[03:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7921ms or 158 ticks behind
+[03:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7337ms or 146 ticks behind
+[03:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[03:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15781ms or 315 ticks behind
+[03:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9676ms or 193 ticks behind
+[03:59:02] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[03:59:02] [Server thread/INFO]: Leucoptera left the game
+[03:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[04:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[14:00:33] [Server thread/INFO]: Stopping server
+[14:00:33] [Server thread/INFO]: Saving players
+[14:00:33] [Server thread/INFO]: Saving worlds
+[14:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:00:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:00:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:00:37] [Server thread/INFO]: Flushing Chunk IO
+[14:00:37] [Server thread/INFO]: Closing Thread Pool
+[14:00:37] [Server thread/INFO]: Closing Server
