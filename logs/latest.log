@@ -1,59 +1,30 @@
-[02:55:36] [User Authenticator #31/INFO]: UUID of player CSGeek01 is e24a56b2-374b-4dc4-9aba-ef36d4dfb5ac
-[02:55:37] [Server thread/INFO]: CSGeek01 joined the game
-[02:55:37] [Server thread/INFO]: CSGeek01[/24.96.155.68:54114] logged in with entity id 434323 at ([world]-253.8775425007588, 132.5625, -282.1980558783177)
-[02:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[02:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9560ms or 191 ticks behind
-[02:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9438ms or 188 ticks behind
-[02:59:23] [Server thread/INFO]: CSGeek01 lost connection: Disconnected
-[02:59:23] [Server thread/INFO]: CSGeek01 left the game
-[02:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10016ms or 200 ticks behind
-[03:29:47] [User Authenticator #32/INFO]: UUID of player Leucoptera is 1324ed10-bbdd-4ed6-bdb7-055790004a4b
-[03:29:48] [Server thread/INFO]: Leucoptera joined the game
-[03:29:48] [Server thread/INFO]: Leucoptera[/99.7.181.25:63872] logged in with entity id 437326 at ([world]-259.69999998807907, 132.0625, -283.5982946382068)
-[03:30:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[03:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
-[03:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9360ms or 187 ticks behind
-[03:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
-[03:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5439ms or 108 ticks behind
-[03:34:23] [Server thread/INFO]: Leucoptera issued server command: /time set day
-[03:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10133ms or 202 ticks behind
-[03:37:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
-[03:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[03:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6255ms or 125 ticks behind
-[03:39:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9284ms or 185 ticks behind
-[03:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18838ms or 376 ticks behind
-[03:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[03:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7709ms or 154 ticks behind
-[03:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12924ms or 258 ticks behind
-[03:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10980ms or 219 ticks behind
-[03:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10276ms or 205 ticks behind
-[03:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
-[03:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9236ms or 184 ticks behind
-[03:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10677ms or 213 ticks behind
-[03:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8419ms or 168 ticks behind
-[03:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10181ms or 203 ticks behind
-[03:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
-[03:53:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10542ms or 210 ticks behind
-[03:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9696ms or 193 ticks behind
-[03:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7921ms or 158 ticks behind
-[03:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7337ms or 146 ticks behind
-[03:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
-[03:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15781ms or 315 ticks behind
-[03:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9676ms or 193 ticks behind
-[03:59:02] [Server thread/INFO]: Leucoptera lost connection: Disconnected
-[03:59:02] [Server thread/INFO]: Leucoptera left the game
-[03:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
-[04:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
-[14:00:33] [Server thread/INFO]: Stopping server
-[14:00:33] [Server thread/INFO]: Saving players
-[14:00:33] [Server thread/INFO]: Saving worlds
-[14:00:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:00:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:00:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:00:37] [Server thread/INFO]: Flushing Chunk IO
-[14:00:37] [Server thread/INFO]: Closing Thread Pool
-[14:00:37] [Server thread/INFO]: Closing Server
+[00:36:25] [User Authenticator #8/INFO]: UUID of player Cognizar is 18cc7abd-8752-4bc0-852c-c249d20365ab
+[00:36:25] [Server thread/INFO]: Cognizar joined the game
+[00:36:25] [Server thread/INFO]: Cognizar[/76.252.251.182:12475] logged in with entity id 74182 at ([world_nether]131.1800616526486, 128.0, -25.684006899645432)
+[00:36:33] [Server thread/INFO]: Cognizar issued server command: /gamemode creative
+[00:40:37] [Server thread/INFO]: Cognizar issued server command: /gamemode survival
+[00:40:38] [Server thread/INFO]: Cognizar lost connection: Disconnected
+[00:40:38] [Server thread/INFO]: Cognizar left the game
+[08:23:35] [User Authenticator #9/INFO]: UUID of player Leucoptera is 1324ed10-bbdd-4ed6-bdb7-055790004a4b
+[08:23:35] [Server thread/INFO]: Leucoptera joined the game
+[08:23:35] [Server thread/INFO]: Leucoptera[/175.101.108.145:52824] logged in with entity id 76352 at ([world_nether]-46.076193723938786, 216.0625, 138.20365969420695)
+[08:37:57] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[08:37:57] [Server thread/INFO]: Leucoptera left the game
+[12:38:09] [User Authenticator #10/INFO]: UUID of player Leucoptera is 1324ed10-bbdd-4ed6-bdb7-055790004a4b
+[12:38:09] [Server thread/INFO]: Leucoptera joined the game
+[12:38:09] [Server thread/INFO]: Leucoptera[/175.101.108.145:56337] logged in with entity id 82354 at ([world]-246.9330520873166, 132.0, -304.8775228481895)
+[13:15:56] [Server thread/INFO]: Villager EntityVillager['Villager'/91497, uuid='a3e35b06-64fd-4807-9911-84f90a9ae57f', l='ServerLevel[world]', x=143.80, y=71.50, z=-222.34, cpos=[8, -14], tl=31577, v=true] died, message: 'Villager was slain by Zombie'
+[13:33:13] [Server thread/INFO]: Leucoptera lost connection: Disconnected
+[13:33:13] [Server thread/INFO]: Leucoptera left the game
+[14:26:19] [User Authenticator #11/INFO]: UUID of player S4AH1L is da4eed64-0227-41f1-b5a2-5dab4b0f8b1a
+[14:26:19] [Server thread/INFO]: S4AH1L joined the game
+[14:26:19] [Server thread/INFO]: S4AH1L[/24.96.63.50:54006] logged in with entity id 97326 at ([world]-240.9330523788295, 70.0, -324.5378784346815)
+[14:26:22] [Server thread/INFO]: S4AH1L lost connection: Disconnected
+[14:26:22] [Server thread/INFO]: S4AH1L left the game
+[14:26:25] [User Authenticator #11/INFO]: UUID of player S4AH1L is da4eed64-0227-41f1-b5a2-5dab4b0f8b1a
+[14:26:25] [Server thread/INFO]: S4AH1L joined the game
+[14:26:25] [Server thread/INFO]: S4AH1L[/24.96.63.50:54008] logged in with entity id 97858 at ([world]-240.9330523788295, 70.0, -324.5378784346815)
+[14:33:24] [Server thread/INFO]: S4AH1L has completed the challenge [Cover Me in Debris]
+[14:36:55] [Server thread/INFO]: S4AH1L has reached the goal [Sky's the Limit]
+[14:40:25] [Server thread/INFO]: S4AH1L lost connection: Disconnected
+[14:40:25] [Server thread/INFO]: S4AH1L left the game

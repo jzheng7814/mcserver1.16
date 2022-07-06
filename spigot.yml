@@ -63,6 +63,7 @@ players:
   disable-saving: false
 world-settings:
   default:
+    hopper-can-load-chunks: false
     below-zero-generation-in-existing-chunks: true
     simulation-distance: default
     thunder-chance: 100000
